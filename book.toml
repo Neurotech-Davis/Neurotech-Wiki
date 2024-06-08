@@ -1,0 +1,6 @@
+[book]
+authors = ["Dhruv Sangamwar"]
+language = "en"
+multilingual = false
+src = "src"
+title = "Neurotech@Davis Wiki"
