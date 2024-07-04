@@ -2,6 +2,7 @@
 
 - [Home](./home.md)
 - [Python Basics](./python/basics.md)
+- [Important Python Libraries](./python/libraries.md)
 - [EEG Data Processing](./eeg_data_processing/signal_processing.md)
   - [Signal Processing Pipeline](./eeg_data_processing/signal_processing_1.md)
   - [Data Processing](./eeg_data_processing/signal_processing_2.md)
