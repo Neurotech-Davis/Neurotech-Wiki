@@ -12,6 +12,9 @@ Now that we've covered the basics of Python, we will dive into libraries which g
 	- [2.2. Indexing and Slicing](#indexing-and-slicing)
 	- [2.3. Reshaping and Flattening](#reshaping-and-flattening)
 - [3. Pandas](#pandas)
+	- [3.1. Dataframe](#dataframes)
+	- [3.2. Reading and Writing](#reading-and-writing)
+- [4. Conclusion](#conclusion)
 
 
 ## 1. Getting Started
@@ -122,8 +125,51 @@ Reshaping and flattening are crucial operations for making sure our data is comp
 
 
 ## 3. Pandas
+Moving on, we will cover the basics of pandas. Once again, here is the link for the comprehensive [documentation](https://pandas.pydata.org/docs/getting_started/index.html#getting-started)
 
-## Footnotes
+### 3. 1. Dataframes
+Pandas is used for two-dimensional *tabular data*, such as data stored in spreadsheets. The most common datatype we work with in pandas is called a *DataFrame*. Let's make one right now.
+```
+df = pd.DataFrame(
+     {
+         "Name": ["Avni", "Aryaman", "Sofia", "Manik", "Grace", "Priyal"],
+         "Sex": ["female", "male", "female", "male", "female", "female"],
+     }
+ )
+```
+Here is a table we've made of the current projects division board members. If we print it out, we would get the following
+|index|Name|Sex|
+|---|---|---|
+|0|Avni|female|
+|1|Aryaman|male|
+|2|Sofia|female|
+|3|Manik|male|
+|4|Grace|female|
+|5|Priyal|female|
+Here is a list of the two most basic return functions
+- `df["{column_name}"]` returns the column corresponding to the column name
+- `df.iloc[x:y]` returns the rows ranging from index `x` to index `y` (exclusive)
+
+### 3.2. Reading and Writing 
+Most likely, you will be creating dataframes with pre-existing csv files from data collection. Luckily, Pandas supports the ability to read from these files
+
+```
+data = pd.read_csv("directory/data.csv")
+```
+The variable `data` has a type `DataFrame`, which means all the previous functions we used can be applied here as well. 
+- `data.head(x)` will display the first `x` rows of the dataframe
+- `data.tail(x)` does the opposite and displays the last `x` rows of the dataframe
+- `data.shape` returns the shape of our dataframe
+
+To write out the tabular data we have manipulated, we can use the function
+`df.to_csv("board_members.csv", sheet_name="board")`
+
+Here is a link for a more comprehensive guide towards [dataframe indexing](https://pandas.pydata.org/docs/getting_started/intro_tutorials/03_subset_data.html)
+
+## 4. Conclusion
+This Python tutorial covered important libraries that will be relevant to your work in signal pre-processing and manipulation. Libraries such as NumPy and Pandas come with a vast amount of functionality, allowing users to focus on meaningful work, and generate results quickly.
+
+
 [^1]: sometimes python decides to be funny and requires you type `pip3` instead of just `pip`. Please be mindful of what python version you have installed. If it's Python3, do the former.
 [^2]: When choosing a nickname, make sure it's intuitive as to what library it's referring.
 [^3]: `[1 7 3 9], 3, [8 6 0 2], IndexError`. An IndexError occurs because there is no value at the `[5]` index of our variable.
