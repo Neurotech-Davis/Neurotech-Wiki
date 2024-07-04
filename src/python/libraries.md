@@ -22,7 +22,7 @@ Now that we've covered the basics of Python, we will dive into libraries which g
 Since libraries are add-ons to the basic version of Python, we need to install them onto our machines. We will be using the package installer for Python, which is called [pip](https://pip.pypa.io/en/stable/). First, we will ensure that the machine you're working on has pip. To do so, open up a terminal window and type the following command:
 
 **MacOS**
-`python  -m  ensurepip  --upgrade`
+`python  -m  ensurepip  --upgrade` <br>
 **Windows**
 ` py -m ensurepip --upgrade`
 
@@ -51,6 +51,7 @@ Now that we have imported NumPy, let's access and use it's functions and variabl
 Arrays will be incredibly useful for neurotech applications. All the brain data we will collect needs to be stored, and the `np.array()` datatype allows us to do so while also providing high functionality. Let's start by creating an *array*, which is just a list of objects.
 ```
 Input:
+import numpy as np
 a = np.array([1, 2, 3, 4, 5, 6])
 a
 ```
@@ -73,6 +74,8 @@ If we used basic Python lists, we'd have to define these `shape`, `size`, and ot
 
 The data we collect will also need to be manipulated. Thankfully, NumPy takes care of this. Sometimes we only want to work with specific parts of our data because of it's temporal importance (when it happened) or spatial importance (where it happened)
 ```
+import numpy as np
+...
 data = np.array([[1, 7, 3, 9], 
 				[2, 5, 0, 4], 
 				[7, 3, 4, 1], 
@@ -111,7 +114,7 @@ We reshaped our flat array `a` to have 3 rows and 2 columns. NumPy also has a fu
 
 Flattening our data gets rid of the dimensionality, and turns our higher dimensional data into a 1-D vector. 
 ```
-Input
+Input:
 c = b.flatten()
 ```
 ```
@@ -130,6 +133,7 @@ Moving on, we will cover the basics of pandas. Once again, here is the link for 
 ### 3. 1. Dataframes
 Pandas is used for two-dimensional *tabular data*, such as data stored in spreadsheets. The most common datatype we work with in pandas is called a *DataFrame*. Let's make one right now.
 ```
+import pandas as pd
 df = pd.DataFrame(
      {
          "Name": ["Avni", "Aryaman", "Sofia", "Manik", "Grace", "Priyal"],
@@ -137,7 +141,7 @@ df = pd.DataFrame(
      }
  )
 ```
-Here is a table we've made of the current projects division board members. If we print it out, we would get the following
+Here is a table of the current projects division board members. If we print it out, we would get the following
 |index|Name|Sex|
 |---|---|---|
 |0|Avni|female|
@@ -146,13 +150,13 @@ Here is a table we've made of the current projects division board members. If we
 |3|Manik|male|
 |4|Grace|female|
 |5|Priyal|female|
-Here is a list of the two most basic return functions
+
+Similar to NumPy, pandas has functions and indexing features allowing you to return rows and columns.
 - `df["{column_name}"]` returns the column corresponding to the column name
 - `df.iloc[x:y]` returns the rows ranging from index `x` to index `y` (exclusive)
 
 ### 3.2. Reading and Writing 
 Most likely, you will be creating dataframes with pre-existing csv files from data collection. Luckily, Pandas supports the ability to read from these files
-
 ```
 data = pd.read_csv("directory/data.csv")
 ```
