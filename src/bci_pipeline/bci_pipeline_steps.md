@@ -27,8 +27,7 @@ Usually there won't be a direct mention of a "BCI pipeline" in a research paper 
 
 **Keys Steps in our BCI Pipeline**
 
-<img width="527" alt="BCI Pipeline" src="https://github.com/user-attachments/assets/1a09c30e-b14d-43ce-8ad6-f4aaf7c40b13">
-
+<img width="498" alt="BCI Pipeline" src="https://github.com/user-attachments/assets/f0de2efd-7f5c-460f-a6b5-9eaceac6b641">
 
 1. Electrodes are placed on the scalp with electrode gel
 2. The brain produces electrical signals that are picked up from the scalp by the electrodes
