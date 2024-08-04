@@ -36,7 +36,7 @@ Usually there won't be a direct mention of a "BCI pipeline" in a research paper 
 4. The digital signals are passed to the laptop hardware UI program using bluetooth communication from signal processing hardware to usb
 5. These digital signals are displayed by the hardware's UI program revealing wave like patterns
 6. The amplitude (height of the waveform) is measured in microvolts and is read per second by the preprocessing program running
-7. The preprocessing program applies filters to remove uncharacteristic microvolt values and additional necessary changes to the data occur in this step
+7. The preprocessing program applies filters to remove uncharacteristic microvolt values and any additional changes to the data occur in this step
 8. The cleaned data is passed as input to the algorithm or machine learning model to perform a task or predict an outcome
 9. Finally, the output from the algorithm or machine learning model is printed to display on the laptop "Person is focused"
 10. This happens in real-time: each step can be occurring simulataneously as electrical signals are constantly being collected from the scalp
