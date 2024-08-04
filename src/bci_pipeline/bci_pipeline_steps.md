@@ -26,3 +26,4 @@ Two Key Questions To Google When Researching Connectors
 Usually there won't be a direct mention of a "BCI pipeline" in a research paper or open-source project; however, by the identifying the steps below in these online sources, you can gain ideas for how people went about forming their pipeline.
 
 **Keys Steps in a BCI Pipeline**
+<img width="533" alt="BCI Pipeline" src="https://github.com/user-attachments/assets/b2f68cb7-5a93-4b84-a377-fb53290ccbbf">
