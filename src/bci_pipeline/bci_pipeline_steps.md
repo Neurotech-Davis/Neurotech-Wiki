@@ -16,7 +16,7 @@ A way to represent how different components of your project are "connected" toge
 
 Using connectors, the special glue. Some modern day examples include bluetooth, usb, electrode gel, python libraries, node-red toolbox, and so many more.
 
-Two Key Questions To Google When Researching Connectors
+When researching connectors, two key questions to Google: 
 
 1. How can [component x] communicate with [component y]? or How to link [component x] with [component y]?
    - see how other people have tried to link these components
@@ -34,7 +34,7 @@ Usually there won't be a direct mention of a "BCI pipeline" in a research paper 
 2. The brain produces electrical signals that are picked up from the scalp by the electrodes
 3. The analog signals from the EEG (electroencephalogram) electrodes are converted to digital signals by the signal processing hardware
 4. The digital signals are passed to the laptop hardware UI program using bluetooth communication from signal processing hardware to usb
-5. These digital signals are displayed in by the hardware's UI program revealing wave like patterns
+5. These digital signals are displayed by the hardware's UI program revealing wave like patterns
 6. The amplitude (height of the waveform) is measured in microvolts and is read per second by the preprocessing program running
 7. The preprocessing program applies filters to remove uncharacteristic microvolt values and additional necessary changes to the data occur in this step
 8. The cleaned data is passed as input to the algorithm or machine learning model to perform a task or predict an outcome
