@@ -23,7 +23,7 @@ When researching connectors, two key questions to Google:
 2. What are the limitations of using [connector z]?
    - see what problems people have had using this type of connector & their suggestions for alternative connectors
 
-Usually there won't be a direct mention of a "BCI pipeline" in a research paper or open-source project; however, by the identifying the steps below in these online sources, you can gain ideas for how people went about forming their pipeline.
+Usually there won't be a direct mention of a "BCI pipeline" in a research paper or open-source project; however, by the identifying the steps below in these online sources, you can gain ideas for how people went about forming their pipelines.
 
 **Keys Steps in a BCI Pipeline**
 
