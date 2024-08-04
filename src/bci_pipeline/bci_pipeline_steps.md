@@ -39,4 +39,4 @@ Usually there won't be a direct mention of a "BCI pipeline" in a research paper 
 7. The preprocessing program applies filters to remove uncharacteristic microvolt values and any additional changes to the data occur in this step
 8. The cleaned data is passed as input to the algorithm or machine learning model to perform a task or predict an outcome
 9. Finally, the output from the algorithm or machine learning model is printed to display on the laptop "Person is focused"
-10. This happens in real-time: each step can be occurring simulataneously as electrical signals are constantly being collected from the scalp, so the output in a sense is changing in real-time + time needed to complete steps 2-9
+10. This happens in real-time: each step can be occurring simulataneously as electrical signals are constantly being collected from the scalp; the output in a sense is changing in real-time + time needed to complete steps 2-9
