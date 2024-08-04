@@ -18,7 +18,7 @@ Using connectors, the special glue. Some modern day examples include bluetooth, 
 
 When researching connectors, two key questions to Google: 
 
-1. How can [component x] communicate with [component y]? or How to link [component x] with [component y]?
+1. How can [component x] communicate or link with [component y]?
    - see how other people have tried to link these components
 2. What are the limitations of using [connector z]?
    - see what problems people have had using this type of connector & their suggestions for alternative connectors
