@@ -29,3 +29,13 @@ Usually there won't be a direct mention of a "BCI pipeline" in a research paper 
 
 <img width="533" alt="BCI Pipeline" src="https://github.com/user-attachments/assets/215dc4b2-14c2-4895-9fcc-21aafe3b095c">
 
+1. Electrodes are placed on the scalp with electrode gel
+2. The brain produces electrical signals that are picked up from the scalp by the electrodes
+3. The analog signals from the EEG (electroencephalogram) electrodes are converted to digital signals by the signal processing hardware
+4. The digital signals are passed to the laptop hardware UI program using bluetooth communication from signal processing hardware to usb
+5. These digital signals are displayed in by the hardware's UI program revealing wave like patterns
+6. The amplitude (height of the waveform) is measured in microvolts and is read per second by the preprocessing program running
+7. The preprocessing program applies filters to remove uncharacteristic microvolt values and additional necessary changes to the data occur in this step
+8. The cleaned data is passed as input to the algorithm or machine learning model to perform a task or predict an outcome
+9. Finally, the output from the algorithm or machine learning model is printed to display on the laptop "Person is focused"
+10. This happens in real-time: each step can be occurring simulataneously as new data is constantly being collected from the brain
