@@ -31,7 +31,7 @@ Usually there won't be a direct mention of a "BCI pipeline" in a research paper 
 
 1. Electrodes are placed on the scalp with electrode gel
 2. The brain produces continuous electrical signals (analog signals) that are picked up from the scalp by the electrodes
-3. These analog signals collected from the EEG (electroencephalogram) electrodes are converted to digital signals (non-continous & discrete values) by the signal processing hardware
+3. These analog signals collected from the EEG (electroencephalogram) electrodes are converted to digital signals (non-continuous & discrete values) by the signal processing hardware
 4. The digital signals are passed to the laptop hardware UI program using bluetooth communication from signal processing hardware to usb
 5. These digital signals are displayed in by the hardware's UI program revealing wave like patterns
 6. The amplitude (height of the waveform) is measured in microvolts and is read per second by the preprocessing program running
