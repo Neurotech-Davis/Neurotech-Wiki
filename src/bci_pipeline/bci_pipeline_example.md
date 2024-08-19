@@ -33,11 +33,11 @@ Data collected by the Emotiv headset, Emotiv's mental command detection algorith
 
 How to feed data collected by the Emotiv headset to Emotiv's mental command detection algorithm?
 
-By examining Emotiv's website, we found two options: using Emotiv's API functions or using the Node-Red Toolbox. We first tried using the API, but needed special authorization information from paid features to access. Then, we pivoted to using the Node-Red Toolbox. This was a difficult process to setup; we leveraged video tutorials on youtube to assist us. After, we tested the software's functionality by mimicing examples we found online and were able to succesfully connect these two components.
+By examining Emotiv's website, we found two options: using Emotiv's API functions or using the Node-Red Toolbox. We first tried using the API, but needed special authorization information from paid features to access. Then, we pivoted to using the Node-Red Toolbox. The Emotiv website was missing some setup steps, so we leveraged video tutorials on youtube to assist us. After, we tested the software's functionality by mimicing examples we found online and were able to succesfully connect these two components.
 
 How to map mental commands to arm movement directions?
 
-We brainstormed and collectively agreed that the easiest way was to map the name of the command detected to a number; we choose to do this by creating python scripts that use serial connection communication to send the appropriate number to the Arduino. Node-Red Toolbox enabled us to have a separate node for each command to active when detected; directly after the according python script node would activate causing this script to run and cause a number to be sent to the Arduino.
+We brainstormed and collectively agreed that the easiest way was to map the name of the command detected to a number; we choose to do this by creating python scripts that use serial connection communication to send the appropriate number to the Arduino. Node-Red Toolbox enabled us to have a separate node for each command that actived when detected; directly after the related python script node would activate causing this script to run, sending a number to the Arduino through a wired usb connection.
 
 How to connect the input Arduino board will receive to make the robotic arm move?
 
