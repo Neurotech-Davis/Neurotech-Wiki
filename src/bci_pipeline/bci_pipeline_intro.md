@@ -1,5 +1,7 @@
 By Priyal Patel for _Neurotech@Davis_
 
+**Introduction**
+
 What connects all the topics we have covered so far together?
 
 the BCI Pipeline <3

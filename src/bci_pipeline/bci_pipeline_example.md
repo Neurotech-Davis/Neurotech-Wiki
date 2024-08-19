@@ -1,3 +1,5 @@
+By Priyal Patel for _Neurotech@Davis_
+
 **Example: Robotic Arm Pipeline**
 
 **Project Repo**

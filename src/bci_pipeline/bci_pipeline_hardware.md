@@ -1,3 +1,5 @@
+By Priyal Patel for _Neurotech@Davis_
+
 **Adding Hardware**
 
 Let's say you want to map the output from the algorithm or machine learning model to make a light flash or make an object move in a certain direction.
