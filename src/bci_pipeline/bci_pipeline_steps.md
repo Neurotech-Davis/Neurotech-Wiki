@@ -7,9 +7,9 @@ By Priyal Patel for _Neurotech@Davis_
 1. Electrodes are placed on the scalp with electrode gel
 2. The brain produces continuous electrical signals (analog signals) that are picked up from the scalp by the electrodes
 3. These analog signals collected from the EEG (electroencephalogram) electrodes are converted to digital signals (non-continuous & discrete values) by the signal processing hardware
-4. The digital signals are passed to the laptop hardware UI program using bluetooth communication from signal processing hardware to usb
+4. Using bluetooth communication between signal processing hardware and a bluetooth usb, the digital signals are passed to the laptop hardware UI program
 5. These digital signals are displayed in by the hardware's UI program revealing wave like patterns
-6. The amplitude (height of the waveform) is measured in microvolts and is read per second by the preprocessing program running
+6. The amplitude (height of the wave) of each wave measured in microvolts is collected per second and passed as input to the preprocessing program running
 7. The preprocessing program applies filters to remove uncharacteristic microvolt values and additional necessary changes to the data occur in this step
 8. The cleaned data is passed as input to the algorithm or machine learning model to perform a task or predict an outcome
 9. Finally, the output from the algorithm or machine learning model is printed to display on the laptop "Person is focused"
