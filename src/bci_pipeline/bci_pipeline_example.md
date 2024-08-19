@@ -21,7 +21,7 @@ https://github.com/Neurotech-Davis/RoboticArm
 
 Emotiv has a pre-built mental command detection algorithm. To increase the accuracy of this algorithm for a particular participant, trainings were conducted and using these trainings the algorithm is able to form patterns in brain activity that match each mental command.
 
-Trainings were conducted prior to create a set of training to assist the Emotiv's algorithm in detecting mental commands for our participant Grace Lim (Projects Member 2022-2024, Project's Board Co-Lead 2024-2025).
+Trainings were conducted prior to assist the Emotiv's algorithm in detecting mental commands for our participant Grace Lim (Projects Member 2022-2024, Project's Board Co-Lead 2024-2025).
 
 **How did we create our Pipeline?**
 
