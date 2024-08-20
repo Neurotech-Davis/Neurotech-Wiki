@@ -26,7 +26,7 @@ Trainings were conducted prior to assist the Emotiv's algorithm in detecting men
 
 **Node-Red Toolbox Pipeline**
 
-
+<img width="400" alt="node-red-flow" src="https://github.com/user-attachments/assets/07a59355-a171-4869-8ca6-034cf1221e5a">
 
 **How did we create our Pipeline?**
 
