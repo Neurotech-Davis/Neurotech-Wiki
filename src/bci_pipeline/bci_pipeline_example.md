@@ -48,6 +48,7 @@ How to use the input the Arduino board will receive to make the robotic arm move
 A team member with hardware and circuits experience suggested using servo motors to achieve the rotating motion we desired for our robotic arm. We ran into the problem of the arm not being able to rotate enough and added extra batteries to power the motors. Using wired connections and a breadboard, we were able to connect a number for a mental command with a position for the servo motors.
 
 2- Cost Analysis
+
 How much do we want to spend on the project?
 
 As little as possible...found a free online 3D cad design for the arm, used a team member's friend 3D printing to print for cheap, paid for servo motors, paid for batteries, used a team member's Arduino, used a team member's wiring/breadboard kit, used free software programs, used our Emotiv headset we won at OpenBCI Spring 2023 competition, and picked a project that could hopefully be completed in time for the April 2024 Neurotech Conference competition.
