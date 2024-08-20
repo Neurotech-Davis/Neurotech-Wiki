@@ -56,13 +56,17 @@ As little as possible...found a free online 3D cad design for the arm, used a te
 
 When everything connects, exciting things can happen...
 
-https://github.com/user-attachments/assets/ddef32f0-1915-4129-921f-6974b1aaccd5
+<img src="https://github.com/user-attachments/assets/ddef32f0-1915-4129-921f-6974b1aaccd5" width="300">
+
 
 **Extras**
 
 We are so excited to see all the cool ideas and amazing projects from our fellow Neuroteches!
 
-https://github.com/user-attachments/assets/0146e680-affd-49e7-8442-74634ccc68ef
+<img src="https://github.com/user-attachments/assets/0146e680-affd-49e7-8442-74634ccc68ef" width="200">
+
+
+
 
 
 
