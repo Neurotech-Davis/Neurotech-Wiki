@@ -61,8 +61,9 @@ As little as possible...found a free online 3D cad design for the arm, used a te
 
 When everything connects, exciting things can happen...
 
-[Demo of the drop command with participant Grace]<img src="https://github.com/user-attachments/assets/ddef32f0-1915-4129-921f-6974b1aaccd5" width="400">
+<img src="https://github.com/user-attachments/assets/ddef32f0-1915-4129-921f-6974b1aaccd5" width="400">
 
+Demo of the drop command with participant Grace
 
 **Extras**
 
