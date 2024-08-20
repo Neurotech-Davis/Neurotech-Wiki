@@ -25,7 +25,7 @@ Trainings were conducted prior to assist the Emotiv's algorithm in detecting men
 
 **Node-Red Toolbox Pipeline**
 
-![roboticarmsetup](https://github.com/user-attachments/assets/2baf784e-27cc-4068-a02d-a20a47abd17d)
+<img width="498" alt="roboticarmsetup" src="https://github.com/user-attachments/assets/2baf784e-27cc-4068-a02d-a20a47abd17d">
 
 **How did we create our Pipeline?**
 
