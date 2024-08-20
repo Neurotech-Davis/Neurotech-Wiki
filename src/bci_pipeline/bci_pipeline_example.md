@@ -16,7 +16,6 @@ https://github.com/Neurotech-Davis/RoboticArm
 - 3D Printed Robotic Arm Casing
 - Servo Motors
 - Batteries
-<img width="200" alt="roboticarmsetup" src="https://github.com/user-attachments/assets/2baf784e-27cc-4068-a02d-a20a47abd17d">
 
 **Context**
 
@@ -27,6 +26,10 @@ Trainings were conducted prior to assist the Emotiv's algorithm in detecting men
 **Node-Red Toolbox Pipeline**
 
 <img width="800" alt="node-red-flow" src="https://github.com/user-attachments/assets/07a59355-a171-4869-8ca6-034cf1221e5a">
+
+**Hardware Setup**
+
+<img width="300" alt="roboticarmsetup" src="https://github.com/user-attachments/assets/2baf784e-27cc-4068-a02d-a20a47abd17d">
 
 **How did we create our Pipeline?**
 
