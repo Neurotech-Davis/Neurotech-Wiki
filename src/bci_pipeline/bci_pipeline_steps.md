@@ -7,7 +7,7 @@ By Priyal Patel for _Neurotech@Davis_
 1. EEG (electroencephalogram) electrodes are placed on the scalp with electrode gel
 2. The brain produces continuous electrical signals (analog signals) that are picked up from the scalp by the electrodes
 3. These analog signals collected from the electrodes are converted to digital signals (non-continuous & discrete values) by the signal processing hardware
-4. Using bluetooth communication between the signal processing hardware and a bluetooth usb, the digital signals are passed to the hardware UI program running
+4. Using bluetooth communication between the signal processing hardware and a bluetooth usb, the digital signals are passed to the hardware's UI program running
 5. These digital signals are displayed in by the hardware's UI program revealing wave like patterns
 6. The amplitude (height of the wave) of each wave measured in microvolts is collected per second and passed as input to the preprocessing program running
 7. The preprocessing program applies filters to remove uncharacteristic microvolt values and any additional necessary changes to the data occur in this step
