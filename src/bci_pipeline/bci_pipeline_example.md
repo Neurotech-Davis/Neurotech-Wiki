@@ -16,7 +16,7 @@ https://github.com/Neurotech-Davis/RoboticArm
 - 3D Printed Robotic Arm Casing
 - Servo Motors
 - Batteries
-<img width="100" alt="roboticarmsetup" src="https://github.com/user-attachments/assets/2baf784e-27cc-4068-a02d-a20a47abd17d">
+<img width="200" alt="roboticarmsetup" src="https://github.com/user-attachments/assets/2baf784e-27cc-4068-a02d-a20a47abd17d">
 
 **Context**
 
