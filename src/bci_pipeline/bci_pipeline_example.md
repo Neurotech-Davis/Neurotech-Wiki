@@ -65,7 +65,7 @@ When everything connects, exciting things can happen...
 
 **Extras**
 
-We are so excited to see all the cool ideas and amazing projects built by our fellow Neuroteches!
+We are so excited to see all the cool ideas and amazing projects built by our fellow Neurotechies!
 
 <img src="https://github.com/user-attachments/assets/0146e680-affd-49e7-8442-74634ccc68ef" width="200">
 
