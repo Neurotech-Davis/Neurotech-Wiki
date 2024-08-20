@@ -59,7 +59,6 @@ When everything connects, exciting things can happen...
 
 <img src="https://github.com/user-attachments/assets/ddef32f0-1915-4129-921f-6974b1aaccd5" width="300">
 
-
 **Extras**
 
 We are so excited to see all the cool ideas and amazing projects built by our fellow Neuroteches!
