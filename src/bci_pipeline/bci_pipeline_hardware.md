@@ -8,7 +8,7 @@ So how do you actually do that?
 
 Using hardware ^\_^
 
-There are many different ways to accomplish these tasks, but one way we have used in the past is connecting an arduino to motors, lights, or other pieces of hardware.
+There are many different ways to accomplish these tasks, but one way we have used in the past is connecting an Arduino to motors, lights, or other pieces of hardware.
 
 **How does this work?**
 
