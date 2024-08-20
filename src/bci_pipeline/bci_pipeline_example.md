@@ -24,7 +24,8 @@ Emotiv has a pre-built mental command detection algorithm. To increase the accur
 Trainings were conducted prior to assist the Emotiv's algorithm in detecting mental commands for our participant Grace Lim (Projects Member 2022-2024, Project's Board Co-Lead 2024-2025).
 
 **Node-Red Toolbox Pipeline**
-(add pic here)
+
+![roboticarmsetup](https://github.com/user-attachments/assets/2baf784e-27cc-4068-a02d-a20a47abd17d)
 
 **How did we create our Pipeline?**
 
@@ -52,5 +53,16 @@ How much do we want to spend on the project?
 As little as possible...found a free online 3D cad design for the arm, used a team member's friend 3D printing to print for cheap, paid for servo motors, paid for batteries, used a team member's Arduino, used a team member's wiring/breadboard kit, used free software programs, used our Emotiv headset we won at OpenBCI Spring 2023 competition, and picked a project that could hopefully be completed in time for the April 2024 Neurotech Conference competition.
 
 **Results**
+
 When everything connects, exciting things can happen...
-(insert demo video)
+
+https://github.com/user-attachments/assets/ddef32f0-1915-4129-921f-6974b1aaccd5
+
+**Extras**
+
+We are so excited to see all the cool ideas and amazing projects from our fellow Neuroteches!
+https://github.com/user-attachments/assets/0146e680-affd-49e7-8442-74634ccc68ef
+
+
+
+
