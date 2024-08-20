@@ -27,10 +27,6 @@ Trainings were conducted prior to assist the Emotiv's algorithm in detecting men
 
 <img width="800" alt="node-red-flow" src="https://github.com/user-attachments/assets/07a59355-a171-4869-8ca6-034cf1221e5a">
 
-**Hardware Setup**
-
-<img width="300" alt="roboticarmsetup" src="https://github.com/user-attachments/assets/2baf784e-27cc-4068-a02d-a20a47abd17d">
-
 **How did we create our Pipeline?**
 
 1- Key Research Questions
@@ -55,6 +51,10 @@ A team member with hardware and circuits experience suggested using servo motors
 How much do we want to spend on the project?
 
 As little as possible...found a free online 3D cad design for the arm, used a team member's friend 3D printing to print for cheap, paid for servo motors, paid for batteries, used a team member's Arduino, used a team member's wiring/breadboard kit, used free software programs, used our Emotiv headset we won at OpenBCI Spring 2023 competition, and picked a project that could hopefully be completed in time for the April 2024 Neurotech Conference competition.
+
+**Hardware Setup**
+
+<img width="300" alt="roboticarmsetup" src="https://github.com/user-attachments/assets/2baf784e-27cc-4068-a02d-a20a47abd17d">
 
 **Results**
 
