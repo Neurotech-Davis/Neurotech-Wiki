@@ -11,7 +11,7 @@ https://github.com/Neurotech-Davis/RoboticArm
 - Emotiv Insight Pro Headset
 - Laptop
 - Wires
-- Bread Board
+- Breadboard
 - Arduino
 - 3D Printed Robotic Arm Casing
 - Servo Motors
@@ -22,6 +22,9 @@ https://github.com/Neurotech-Davis/RoboticArm
 Emotiv has a pre-built mental command detection algorithm. To increase the accuracy of this algorithm for a particular participant, trainings were conducted and using these trainings the algorithm is able to form patterns in brain activity that match each mental command.
 
 Trainings were conducted prior to assist the Emotiv's algorithm in detecting mental commands for our participant Grace Lim (Projects Member 2022-2024, Project's Board Co-Lead 2024-2025).
+
+**Node-Red Toolbox Pipeline**
+(add pic here)
 
 **How did we create our Pipeline?**
 
@@ -39,14 +42,15 @@ How to map mental commands to arm movement directions?
 
 We brainstormed and collectively agreed that the easiest way was to map the name of the command detected to a number; we choose to do this by creating python scripts that use serial connection communication to send the appropriate number to the Arduino. Node-Red Toolbox enabled us to have a separate node for each command that actived when detected; directly after the related python script node would activate causing this script to run, sending a number to the Arduino through a wired usb connection.
 
-How to connect the input Arduino board will receive to make the robotic arm move?
+How to use the input the Arduino board will receive to make the robotic arm move?
 
-TODO: need to finish
+A team member with hardware and circuits experience suggested using servo motors to achieve the rotating motion we desired for our robotic arm. We ran into the problem of the arm not being able to rotate enough and added extra batteries to power the motors. Using wired connections and a breadboard, we were able to connect a number for a mental command with a position for the servo motors.
 
-2- Hardware Materials Brainstorm
+2- Cost Analysis
+How much do we want to spend on the project?
 
-TODO: need to finish
+As little as possible...found a free online 3D cad design for the arm, used a team member's friend 3D printing to print for cheap, paid for servo motors, paid for batteries, used a team member's Arduino, used a team member's wiring/breadboard kit, used free software programs, used our Emotiv headset we won at OpenBCI Spring 2023 competition, and picked a project that could hopefully be completed in time for the April 2024 Neurotech Conference competition.
 
-3- Cost Analysis
-How much do we want to spent on the project?
-As little as possible...found a free online 3D cad design for the arm, use team member's friend 3D printing to print for cheap, picked servo motors, used team member's wiring/bread board kit, used free software programs, used free hardware we won at OpenBCI Spring 2023 competition, and picked project that could be hopefully be completed in time for the April 2024 Neurotech Conference competition.
+**Results**
+When everything connects, exciting things can happen...
+(insert demo video)
