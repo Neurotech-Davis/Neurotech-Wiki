@@ -57,6 +57,7 @@ As little as possible...found a free online 3D cad design for the arm, used a te
 
 <img width="300" alt="roboticarmsetup" src="https://github.com/user-attachments/assets/2baf784e-27cc-4068-a02d-a20a47abd17d">
 
+
 **Results**
 
 When everything connects, exciting things can happen...
