@@ -12,7 +12,7 @@ A brain computer interface, which means some kind of project that incorporates b
 
 **What is a Pipeline?**
 
-A way to represent how different components of your project are "connected" together.
+A way to represent how different components of a project are "connected" together.
 
 **How would you link components of a project together?**
 
