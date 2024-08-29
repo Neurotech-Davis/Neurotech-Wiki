@@ -16,7 +16,7 @@ A way to represent how different components of your project are "connected" toge
 
 **How would you link components of a project together?**
 
-Using connectors, the special glue. Some modern day examples include bluetooth, usb, electrode gel, python libraries, node-red toolbox, and so many more.
+Using connectors, the special glue. Some modern day examples include bluetooth, usb, wires, electrode gel, python libraries, and so many more.
 
 When researching connectors, two key questions to Google:
 
