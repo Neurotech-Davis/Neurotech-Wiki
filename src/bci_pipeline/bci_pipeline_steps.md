@@ -4,7 +4,7 @@ By Priyal Patel for _Neurotech@Davis_
 
 **Big Picture**
 
-<img width="450" alt="bci_pipeline" src="https://github.com/user-attachments/assets/5e473367-c437-4a60-8481-8a784c220734">
+<img width="500" alt="bci_pipeline" src="https://github.com/user-attachments/assets/5e473367-c437-4a60-8481-8a784c220734">
 
 **Steps**
 
