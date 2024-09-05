@@ -10,7 +10,7 @@ By Priyal Patel for _Neurotech@Davis_
 
 1. EEG (electroencephalogram) electrodes are placed on the scalp with electrode gel
 
-<p align="center"> <img width="175" alt="brain" src="https://github.com/user-attachments/assets/8a7edc8e-9924-4d02-ab2c-f3a48bcf4918"/> </p>
+![Signal Processing Hardware (1) 6 41 06 PM](https://github.com/user-attachments/assets/8fdd6110-471c-49d0-9f74-20ce3a6c8133)
 
 2. The brain produces continuous electrical signals (analog signals) that are picked up from the scalp by the electrodes
 
@@ -21,7 +21,7 @@ By Priyal Patel for _Neurotech@Davis_
 
 4. Using bluetooth communication between the signal processing hardware and a bluetooth usb, the digital signals are passed to the hardware's UI program running
 
-<p align="center"> <img width="250" alt="hardware" src="https://github.com/user-attachments/assets/6389092b-6abe-4b12-8ae6-fb55205d686c"/> </p>
+<p align="center"> <img width="225" alt="hardware" src="https://github.com/user-attachments/assets/6389092b-6abe-4b12-8ae6-fb55205d686c"/> </p>
 
 ![Signal Processing Hardware (6)](https://github.com/user-attachments/assets/69483fd9-e502-46c2-97a6-027a5d90a3ea)
 
