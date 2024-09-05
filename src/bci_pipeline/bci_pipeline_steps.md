@@ -2,9 +2,11 @@ By Priyal Patel for _Neurotech@Davis_
 
 **Keys Steps in our BCI Pipeline**
 
+**Big Picture**
 
 <img width="437" alt="bci_pipeline" src="https://github.com/user-attachments/assets/5e473367-c437-4a60-8481-8a784c220734">
 
+**Steps**
 
 1. EEG (electroencephalogram) electrodes are placed on the scalp with electrode gel
 
@@ -20,6 +22,7 @@ By Priyal Patel for _Neurotech@Davis_
 4. Using bluetooth communication between the signal processing hardware and a bluetooth usb, the digital signals are passed to the hardware's UI program running
 
 ![Signal Processing Hardware (2) 6 41 06 PM](https://github.com/user-attachments/assets/6389092b-6abe-4b12-8ae6-fb55205d686c)
+
 ![Signal Processing Hardware (6)](https://github.com/user-attachments/assets/69483fd9-e502-46c2-97a6-027a5d90a3ea)
 
 6. These digital signals are displayed in by the hardware's UI program revealing wave like patterns
