@@ -2,7 +2,9 @@ By Priyal Patel for _Neurotech@Davis_
 
 **Keys Steps in our BCI Pipeline**
 
-<img width="498" alt="BCI Pipeline" src="https://github.com/user-attachments/assets/f0de2efd-7f5c-460f-a6b5-9eaceac6b641">
+
+<img width="437" alt="bci_pipeline" src="https://github.com/user-attachments/assets/5e473367-c437-4a60-8481-8a784c220734">
+
 
 1. EEG (electroencephalogram) electrodes are placed on the scalp with electrode gel
 2. The brain produces continuous electrical signals (analog signals) that are picked up from the scalp by the electrodes
