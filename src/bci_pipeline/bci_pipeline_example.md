@@ -12,7 +12,7 @@ https://github.com/Neurotech-Davis/RoboticArm
 - Laptop
 - Wires
 - Breadboard
-- Arduino
+- Elegoo UNO R3 microcontroller
 - 3D Printed Robotic Arm Casing
 - Servo Motors
 - Batteries
@@ -33,7 +33,7 @@ Trainings were conducted prior to assist the Emotiv's algorithm in detecting men
 
 What are the distinct components that we need to connect?
 
-Data collected by the Emotiv headset, Emotiv's mental command detection algorithm, program to map mental commands to arm movement directions, Arduino board, and the robotic arm.
+Data collected by the Emotiv headset, Emotiv's mental command detection algorithm, program to map mental commands to arm movement directions, microcontroller, and the robotic arm.
 
 How to feed data collected by the Emotiv headset to Emotiv's mental command detection algorithm?
 
@@ -41,9 +41,9 @@ By examining Emotiv's website, we found two options: using Emotiv's API function
 
 How to map mental commands to arm movement directions?
 
-We brainstormed and collectively agreed that the easiest way was to map the name of the command detected to a number; we choose to do this by creating python scripts that use serial connection communication to send the appropriate number to the Arduino. Node-Red Toolbox enabled us to have a separate node for each command that actived when detected; directly after the related python script node would activate causing this script to run, sending a number to the Arduino through a wired usb connection.
+We brainstormed and collectively agreed that the easiest way was to map the name of the command detected to a number; we choose to do this by creating python scripts that use serial connection communication to send the appropriate number to the microcontroller. Node-Red Toolbox enabled us to have a separate node for each command that actived when detected; directly after the related python script node would activate causing this script to run, sending a number to the microcontroller through a wired usb connection.
 
-How to use the input the Arduino board will receive to make the robotic arm move?
+How to use the input the microcontroller will receive to make the robotic arm move?
 
 A team member with hardware and circuits experience suggested using servo motors to achieve the rotating motion we desired for our robotic arm. We ran into the problem of the arm not being able to rotate enough and added extra batteries to power the motors. Using wired connections and a breadboard, we were able to connect a number for a mental command with a position for the servo motors.
 
@@ -51,7 +51,7 @@ A team member with hardware and circuits experience suggested using servo motors
 
 How much do we want to spend on the project?
 
-As little as possible...found a free online 3D cad design for the arm, used a team member's friend 3D printing to print for cheap, paid for servo motors, paid for batteries, used a team member's Arduino, used a team member's wiring/breadboard kit, used free software programs, used our Emotiv headset we won at OpenBCI Spring 2023 competition, and picked a project that could hopefully be completed in time for the April 2024 Neurotech Conference competition.
+As little as possible...found a free online 3D cad design for the arm, used a team member's friend 3D printing to print for cheap, paid for servo motors, paid for batteries, used a team member's microcontroller, used a team member's wiring/breadboard kit, used free software programs, used our Emotiv headset we won at OpenBCI Spring 2023 competition, and picked a project that could hopefully be completed in time for the April 2024 Neurotech Conference competition.
 
 **Hardware Setup**
 
