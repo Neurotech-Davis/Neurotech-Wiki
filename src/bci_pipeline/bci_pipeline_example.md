@@ -61,7 +61,7 @@ As little as possible...found a free online 3D cad design for the arm, used a te
 
 When everything connects, exciting things can happen...
 
-<img src="https://github.com/user-attachments/assets/ddef32f0-1915-4129-921f-6974b1aaccd5" width="400">
+<img src="https://github.com/user-attachments/assets/ddef32f0-1915-4129-921f-6974b1aaccd5" width="500">
 
 Demo of the drop command with participant Grace
 
@@ -69,7 +69,7 @@ Demo of the drop command with participant Grace
 
 We are so excited to see all the cool ideas and amazing projects built by our fellow Neurotechies!
 
-<img src="https://github.com/user-attachments/assets/0146e680-affd-49e7-8442-74634ccc68ef" width="200">
+<img src="https://github.com/user-attachments/assets/0146e680-affd-49e7-8442-74634ccc68ef" width="300">
 
 
 
