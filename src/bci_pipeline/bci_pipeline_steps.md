@@ -10,7 +10,7 @@ By Priyal Patel for _Neurotech@Davis_
 
 1. EEG (electroencephalogram) electrodes are placed on the scalp with electrode gel
 
-<img width="250" alt="brain" src="https://github.com/user-attachments/assets/8a7edc8e-9924-4d02-ab2c-f3a48bcf4918">
+<img width="230" alt="brain" src="https://github.com/user-attachments/assets/8a7edc8e-9924-4d02-ab2c-f3a48bcf4918">
 
 2. The brain produces continuous electrical signals (analog signals) that are picked up from the scalp by the electrodes
 
