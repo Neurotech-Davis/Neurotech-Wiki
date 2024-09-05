@@ -21,7 +21,7 @@ By Priyal Patel for _Neurotech@Davis_
 
 4. Using bluetooth communication between the signal processing hardware and a bluetooth usb, the digital signals are passed to the hardware's UI program running
 
-<p align="center"> <img width="225" alt="hardware" src="https://github.com/user-attachments/assets/21560fcf-f858-4130-83fd-004b29ec5057"/> <img width="225" alt="hardware" src="https://github.com/user-attachments/assets/6389092b-6abe-4b12-8ae6-fb55205d686c"/> </p>
+<p align="center"> <img width="225" alt="hardware" src="https://github.com/user-attachments/assets/6389092b-6abe-4b12-8ae6-fb55205d686c"/> </p>
 
 ![Signal Processing Hardware (6)](https://github.com/user-attachments/assets/69483fd9-e502-46c2-97a6-027a5d90a3ea)
 
