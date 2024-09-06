@@ -16,7 +16,7 @@ Now that we've covered the basics of Python, we will dive into libraries which g
 	- [3.2. Reading and Writing](#reading-and-writing)
 - [4. Conclusion](#conclusion)
 
-
+## GOAT STATUS
 ## 1. Getting Started
 ### 1.1. Making Sure You Have PIP
 Since libraries are add-ons to the basic version of Python, we need to install them onto our machines. We will be using the package installer for Python, which is called [pip](https://pip.pypa.io/en/stable/). First, we will ensure that the machine you're working on has pip. To do so, open up a terminal window and type the following command:
