@@ -16,6 +16,7 @@
   - [Adding Hardware](./bci_pipeline/bci_pipeline_hardware.md)
   - [Example: Robotic Arm Pipeline](./bci_pipeline/bci_pipeline_example.md)
 - [Machine Learning for Neurotechnology](./machine_learning/ml_intro.md)
+  - [Introduction](./machine_learning/ml_basic.md)
 - [Past Projects](./past_projects/intro.md)
   - [Dino Game](./past_projects/dinogame.md)
   - [Expanding the P300 Oddball Paradigm for a Versatile BCI System with Macro Command Input](./past_projects/p300oddball.md)
