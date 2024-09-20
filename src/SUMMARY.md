@@ -18,7 +18,7 @@
 - [Machine Learning for Neurotechnology](./machine_learning/ml_intro.md)
   - [Introduction](./machine_learning/ml_basic.md)
   - [Feature Extraction](./machine_learning/ml_featureextraction.md)
-  - [Feature Extraction](./machine_learning/ml_types.md)
+  - [Machine Learning Models Used in Neurotechnology](./machine_learning/ml_types.md)
 - [Past Projects](./past_projects/intro.md)
   - [Dino Game](./past_projects/dinogame.md)
   - [Expanding the P300 Oddball Paradigm for a Versatile BCI System with Macro Command Input](./past_projects/p300oddball.md)
