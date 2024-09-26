@@ -20,3 +20,4 @@ The **K-Nearest Neighbors (KNN)** algorithm is a simple yet effective method for
 
 ## Additional Resources
 - [ML Models Quick Overview](https://www.youtube.com/watch?v=yN7ypxC7838)
+- [Example Using Neural Networks](https://quickdraw.withgoogle.com/)
