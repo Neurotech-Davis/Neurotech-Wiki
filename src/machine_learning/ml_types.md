@@ -2,6 +2,8 @@
 
 ## Support Vector Machine (SVM) Classifiers
 
+https://miro.medium.com/v2/resize:fit:960/format:webp/0*UW8gLZMDbBHjYV0o.png![image](https://github.com/user-attachments/assets/fb5c98cd-b873-491f-8713-974c5761733f)
+
 **Support Vector Machines (SVMs)** are powerful supervised learning algorithms used in classification tasks. SVMs work by finding the optimal hyperplane that separates different classes of data points in a high-dimensional space. In neurotechnology, SVM classifiers are often used to categorize brain signals, such as identifying whether a person is experiencing a cognitive task or rest. They are particularly useful when dealing with high-dimensional data, like fMRI images, where each voxel represents a feature.
 
 More Reading: [SVMs Visual Explanation](https://python.plainenglish.io/support-vector-machine-svm-clearly-explained-d9db9123b7ac)
