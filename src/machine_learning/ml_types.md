@@ -4,6 +4,8 @@
 
 **Support Vector Machines (SVMs)** are powerful supervised learning algorithms used in classification tasks. SVMs work by finding the optimal hyperplane that separates different classes of data points in a high-dimensional space. In neurotechnology, SVM classifiers are often used to categorize brain signals, such as identifying whether a person is experiencing a cognitive task or rest. They are particularly useful when dealing with high-dimensional data, like fMRI images, where each voxel represents a feature.
 
+More Reading: [SVMs Visual Explanation](https://python.plainenglish.io/support-vector-machine-svm-clearly-explained-d9db9123b7ac)
+
 ## Linear Discriminant Analysis (LDA)
 
 **Linear Discriminant Analysis (LDA)** is another supervised learning technique commonly used in neurotechnology. LDA is a dimensionality reduction method that seeks to project high-dimensional data onto a lower-dimensional space while preserving class separability. In applications like brain-computer interfaces, LDA is used to discriminate between different mental states by finding linear combinations of features that best separate the data classes (e.g., motor imagery vs. rest). Its simplicity and effectiveness make it a popular choice for real-time neural signal classification.
@@ -15,3 +17,6 @@ The **K-Nearest Neighbors (KNN)** algorithm is a simple yet effective method for
 ## Random Forest
 
 **Random Forest** is an ensemble learning method that constructs multiple decision trees during training and outputs the mode of their classifications or the mean prediction in regression tasks. This algorithm is widely used in neurotechnology because of its robustness to overfitting and ability to handle large, complex datasets. Random Forests have been applied to neuroimaging data for tasks like identifying brain regions associated with specific cognitive functions or predicting mental health outcomes based on brain connectivity patterns.
+
+## Additional Resources
+- [ML models Quick Overview](https://www.youtube.com/watch?v=yN7ypxC7838)
