@@ -19,4 +19,4 @@ The **K-Nearest Neighbors (KNN)** algorithm is a simple yet effective method for
 **Random Forest** is an ensemble learning method that constructs multiple decision trees during training and outputs the mode of their classifications or the mean prediction in regression tasks. This algorithm is widely used in neurotechnology because of its robustness to overfitting and ability to handle large, complex datasets. Random Forests have been applied to neuroimaging data for tasks like identifying brain regions associated with specific cognitive functions or predicting mental health outcomes based on brain connectivity patterns.
 
 ## Additional Resources
-- [ML models Quick Overview](https://www.youtube.com/watch?v=yN7ypxC7838)
+- [ML Models Quick Overview](https://www.youtube.com/watch?v=yN7ypxC7838)
