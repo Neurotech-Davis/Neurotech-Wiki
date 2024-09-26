@@ -1,6 +1,7 @@
 # What is Machine Learning?
 
 [![What is Machine Learning?](https://img.youtube.com/vi/f_uwKZIAeM0/0.jpg)](https://www.youtube.com/watch?v=f_uwKZIAeM0 "What is Machine Learning?")
+<iframe width="560" height="315" src="https://www.youtube.com/embed/f_uwKZIAeM0?si=ftUYq_imXkf6Oxi_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 Machine learning is a computational approach that enables systems to improve their performance on tasks by learning from data. It is especially useful in neurotechnology, where vast amounts of brain-related data are gathered through techniques like electroencephalography (EEG), magnetoencephalography (MEG), and functional MRI (fMRI). These datasets contain patterns that reflect neural activity, which machine learning models can analyze to extract valuable insights.
 
