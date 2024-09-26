@@ -19,6 +19,6 @@ Click on ->
 
 - **Unsupervised Learning:** Unlike supervised learning, unsupervised learning deals with unlabeled data. The goal here is to uncover hidden patterns or group similar data points together. In neurotechnology, unsupervised learning can be applied to identify clusters of neurons with similar activity patterns or discover new brain states without predefined labels.
 
-**Additional Resources**
+## Additional Resources
 - [More on what is ML](https://www.youtube.com/watch?v=QghjaS0WQQU)
 - [Introduction to ML Using Python](https://www.geeksforgeeks.org/introduction-machine-learning-using-python/)
