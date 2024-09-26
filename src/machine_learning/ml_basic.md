@@ -21,3 +21,4 @@ Click on ->
 
 **Additional Resources**
 - [More on what is ML](https://www.youtube.com/watch?v=QghjaS0WQQU)
+- [Introduction to ML Using Python](https://www.geeksforgeeks.org/introduction-machine-learning-using-python/)
