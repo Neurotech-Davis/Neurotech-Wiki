@@ -1,4 +1,4 @@
-### Importance of Clean Data
+# Importance of Clean Data
 By Grace Lim for Neurotech@Davis
 
 Having clean data is one of the most important considerations for your EEG experiment, second only to participant safety (but we wont get into that now). The reasoning for the important of clean data is to save you time and money. By having clean data in the first place, you can reduce the amount of recording sessions you need to do; whether this is the amount of trials or number of participants being run. By have less sessions, you save lots of time and resources (electrode gel isn’t cheap). Besides these points, it is also just good practice as this is the standard for labs that publish papers. If you’re trying to impress your PI, you want to spend some time learning why and how to have clean data. 
