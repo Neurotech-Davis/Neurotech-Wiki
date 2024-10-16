@@ -4,4 +4,5 @@ The active, reference, and ground are three different types of electrodes that a
 
 For some background when describing the reference electrode, it is important to know that EEG recording systems typically solve the problem of noise in the ground circuit by using what are called differential amplifiers (Luck, 2014, Chapter 5). The reference electrode, in theory, is supposed to be away from the brain activity we are directly measuring, using it to subtract from each active and ground electrode. This makes sense practically, as we are creating a sort of baseline for recording neural activity in order to get rid of any common noise. Here is a section from one of the figures used from Luck in the fifth chapter, that helped me understand this concept:
 
-![Image of 10-20 System Electrode Placement](https://i.postimg.cc/26kVjC34/Screenshot-2024-10-15-at-6-53-00-PM.png)
+![Active_ref_ground](https://i.postimg.cc/rFNZKkVf/Screenshot-2024-09-04-at-2-20-39-PM.png)
+![fig5.1](https://i.postimg.cc/T2FfCngz/Screenshot-2024-09-04-at-2-20-53-PM.png)
