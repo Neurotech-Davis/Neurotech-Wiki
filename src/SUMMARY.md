@@ -3,6 +3,7 @@
 - [Home](./home.md)
 - [Python Basics](./python/basics.md)
 - [Important Python Libraries](./python/libraries.md)
+- [Intro to Neuroscience and EEGs](./intro_to_eeg/test.md)
 - [Intro to Experimental Design](./intro_to_exp_design/01-overview.md)
   - [Electrode Placement](./intro_to_exp_design/02-electrode_placement.md)
   - [Impedance, Skin Potentials, Sweat](./intro_to_exp_design/03-Impedance.md)

@@ -1,0 +1,3 @@
+# What is EEG?
+
+EEG stands for Electroencephalogram, which is a method for recording electrical brain activity. Like the name suggests, EEG uses electrodes (for our purposes, on the scalp), to pick up neural activity from a local cluster of neurons beneath the skull. This neural activity is thought to be is specifically generated from post-synaptic potentials from pyramidal cells. These post-synaptic potentials along the cortex create a summation of dipoles which are picked up from the electrodes, which gives rise to the voltage recorded from the scalp. This works in a way of volume conduction, where this propagation of current causes this instantaneous voltage (Luck, 2014, Chapter 2). 
