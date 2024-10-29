@@ -24,24 +24,24 @@ By Priyal Patel for _Neurotech@Davis_
 <p align="center"> <img width="225" alt="hardware" src="https://github.com/user-attachments/assets/6389092b-6abe-4b12-8ae6-fb55205d686c"/> </p>
 <img width="650" alt="hardware" src="https://github.com/user-attachments/assets/69483fd9-e502-46c2-97a6-027a5d90a3ea"/>
 
-6. These digital signals are displayed in by the hardware's UI program revealing wave like patterns
+5. These digital signals are displayed in by the hardware's UI program revealing wave like patterns
 
 ![Signal Processing Hardware (7)](https://github.com/user-attachments/assets/5ad9f2d4-3d49-449e-9ddd-5ab087c8f433)
 
 
-7. The amplitude (height of the wave) of each wave measured in microvolts is collected per second and passed as input to the preprocessing program running
+6. The amplitude (height of the wave) of each wave measured in microvolts is collected per second and passed as input to the preprocessing program running
 
 ![Signal Processing Hardware (8)](https://github.com/user-attachments/assets/f5d9950e-5e3b-44e1-9738-f719c2521e22)
 
-8. The preprocessing program applies filters to remove uncharacteristic microvolt values and any additional key changes to the data occur in this step
+7. The preprocessing program applies filters to remove uncharacteristic microvolt values and any additional key changes to the data occur in this step
 
-9. The cleaned data is passed as input to the algorithm or machine learning model to perform a task or predict an outcome
+8. The cleaned data is passed as input to the algorithm or machine learning model to perform a task or predict an outcome
 
 ![Signal Processing Hardware (9)](https://github.com/user-attachments/assets/a112eea7-2cf1-436f-86ad-f1b726cc81c4)
 
-10. Finally, the output from the algorithm or machine learning model is printed to display on the laptop: "Person is focused"
+9. Finally, the output from the algorithm or machine learning model is printed to display on the laptop: "Person is focused"
 
 ![Signal Processing Hardware (10)](https://github.com/user-attachments/assets/5cf07775-531e-476e-b08b-355b2a4de6b3)
 
 
-11. This happens in real-time: each step can be occurring simulataneously as electrical signals are constantly being collected from the scalp
+10. This happens in real-time: each step can be occurring simulataneously as electrical signals are constantly being collected from the scalp
