@@ -44,4 +44,4 @@ By Priyal Patel for _Neurotech@Davis_
 ![Signal Processing Hardware (10)](https://github.com/user-attachments/assets/5cf07775-531e-476e-b08b-355b2a4de6b3)
 
 
-10. This happens in real-time: each step can be occurring simulataneously as electrical signals are constantly being collected from the scalp
+10. This happens in real-time: each step can be occurring simultaneously as electrical signals are constantly being collected from the scalp
