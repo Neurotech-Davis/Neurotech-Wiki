@@ -55,7 +55,7 @@ As little as possible...found a free online 3D cad design for the arm, used a te
 
 **Hardware Setup**
 
-<img width="400" alt="hardwaresetup" src="https://github.com/user-attachments/assets/f8d44e46-ab60-4bcc-9f3d-3159aa3588c1">
+<img width="350" alt="hardwaresetup" src="https://github.com/user-attachments/assets/f8d44e46-ab60-4bcc-9f3d-3159aa3588c1">
 
 **Results**
 
