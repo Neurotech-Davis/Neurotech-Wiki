@@ -97,3 +97,5 @@ These **gradient boosting models** build on decision trees to enhance accuracy t
 - [ML Models Quick Overview](https://www.youtube.com/watch?v=yN7ypxC7838)
 - [Choosing an Estimator](https://www.educative.io/answers/choosing-the-right-estimator-in-machine-learning-tasks)
 - [Example Using Neural Networks](https://quickdraw.withgoogle.com/)
+- [MIT Lecture on ML Models](https://www.youtube.com/watch?v=0xaLT4Svzgo&list=PLxC_ffO4q_rW0bqQB80_vcQB09HOA3ClV)
+- [ML Models Introduction](https://www.datacamp.com/blog/machine-learning-models-explained)
