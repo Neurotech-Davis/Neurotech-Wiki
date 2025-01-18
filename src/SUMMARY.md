@@ -1,6 +1,7 @@
 # Summary
 
 - [Home](./home.md)
+- [Setup Development Environment](./development_environment_setup/intro.md)
 - [Python Basics](./python/basics.md)
 - [Important Python Libraries](./python/libraries.md)
 - [Intro to Neuroscience and EEGs](./intro_to_eeg/test.md)
