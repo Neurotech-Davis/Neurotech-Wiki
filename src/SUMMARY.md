@@ -2,6 +2,10 @@
 
 - [Home](./home.md)
 - [Setup Development Environment](./development_environment_setup/intro.md)
+  - [The Terminal](./development_environment_setup/terminal.md)
+  - [Jupyter Notebook](./development_environment_setup/jupyter_notebook.md)
+  - [VSCode (IDE)](./development_environment_setup/ide.md)
+  - [Github and Git](./development_environment_setup/github.md)
 - [Python Basics](./python/basics.md)
 - [Important Python Libraries](./python/libraries.md)
 - [Intro to Neuroscience and EEGs](./intro_to_eeg/test.md)
