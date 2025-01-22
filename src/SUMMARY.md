@@ -1,7 +1,7 @@
 # Summary
 
 - [Home](./home.md)
-- [Setup Development Environment](./development_environment_setup/intro.md)
+- [Development Environment Setup](./development_environment_setup/intro.md)
   - [The Terminal](./development_environment_setup/terminal.md)
   - [Jupyter Notebook](./development_environment_setup/jupyter_notebook.md)
   - [VSCode (IDE)](./development_environment_setup/ide.md)

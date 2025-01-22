@@ -6,24 +6,27 @@ The terminal is an application that is primarily used to easily access and edit 
 
 # Terminal Commands
 
-Commands are what you type where the cursor mark appears. Commands are structured as <abbreviated action> <inputs>. When reading an instruction set, you can recognize terminal commands by '$', '>', or '%' appearing before the command. To run the command, you will need to copy everything that appears right after one of these symbols into the terminal and then hit enter.
+Commands are what you type after the cursor mark. Commands are structured as <abbreviated action> <inputs>. When reading an instruction set, you can recognize terminal commands by '$', '>', or '%' appearing before the command. To run the command, you will need to copy everything that appears right after one of these symbols into the terminal and then hit enter.
 (insert picture example)
 
-# Path
+**Path**
 
 A path is a way to represent where a folder or file is located. Each folder or file is separated by a '/'. Your desired folder or file will be the rightmost item and the folder(s) that contains this item will be located to the left; for example, "/folder/folder/file".
 
 Absolute Path
+
 This path starts with the root directory usually the 'Users' folder. The root directory is the folder that holds all of your folders and files; for example, "/Users/priyal/Desktop/Neurotech".
 
 Relative Path
+
 This is the shorthand version of the absolute path. To represent the previous folder, you can use '.'; for example, if you are currently in 'priyal' folder, then your shorthand path is "./Desktop/Neurotech".
 
-# Common Linux Commands
+**Common Linux Commands**
 
 If you have a Windows laptop, then you will need to either install WSL before being able to run these commands or use the equivalent Windows commands. See 'Additional Resources' for more information.
 
 Manual Page: man
+
 See what command does and how to use it.
 
 ```
@@ -31,6 +34,7 @@ $ man pwd
 ```
 
 Present Working Directory: pwd
+
 See what folder you are currently in (absolute path).
 
 ```
@@ -38,6 +42,7 @@ $ pwd
 ```
 
 List: ls
+
 See the contents of the folder you are currently in.
 
 ```
@@ -45,6 +50,7 @@ $ ls
 ```
 
 Concatenate: cat
+
 See the contents of one or more files in the order specified.
 
 ```
@@ -52,6 +58,7 @@ $ cat <filename>
 ```
 
 Move: mv
+
 Move a file to a new location or rename file/keep file in same location.
 
 ```
@@ -59,6 +66,7 @@ $ mv <file-you-want-to-move><new-path or name>
 ```
 
 Change Directory: cd
+
 Go from your current folder to another folder.
 
 ```
@@ -70,6 +78,7 @@ The shorthand to go back to the parent folder is:
 $ cd ..
 '''
 Make Directory: mkdir
+
 Create a folder with the specified name.
 
 ```
@@ -83,19 +92,24 @@ $ rm -d <folder name>
 ```
 
 Remove File: rm
-``'
+
+```
 $ rm <file name>
 
 ```
+
 Clear: clear
+
 Remove all commands from terminal display. If you use the ^ arrow, then you can still see some of the past commands used.
-```
 
+```
 $ clear
-
 ```
+
 Stop Execution: ^c
+
 After running a command, you can use this shortcut to prevent the command from finishing executing the command.
+
 ```
 
 $ <command>
@@ -104,7 +118,7 @@ $ <command>
 ```
 
 # Additional Resources
+
 - [WSL Installation Guide](https://learn.microsoft.com/en-us/windows/wsl/install)
 - [Windows Commands](https://learn.microsoft.com/en-us/windows-server/administration/windows-commands/windows-commands)
 - [Unix Tutorial](https://info-ee.surrey.ac.uk/Teaching/Unix/index.html)
-```
