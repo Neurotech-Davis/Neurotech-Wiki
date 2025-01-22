@@ -29,7 +29,8 @@ To open Jupyter Notebook, run this command:
 ```
 $ jupyter notebook
 ```
-Make sure the terminal window that you used to run this command stays open the whole time you are using Jupyter Notebook.
+
+Make sure the Terminal window that you used to run this command stays open the whole time you are using Jupyter Notebook.
 
 **Files and Folders Structure**
 
@@ -55,11 +56,11 @@ The most important thing to remember is to periodically press the "save" button 
 
 Each box is called a cell. Using cells allows you to split up your code into multiple cells and add markdown cells to provide written explanations. Cells can be run in any order; however, if certain code requires an imported package, then the cell importing the package needs to be run first.
 
-To add a cell, either click on "+" or select an option under "Insert". Use the dropdown to specify what type of cell (ex. code). 
+To add a cell, either click on "+" or select an option under "Insert". Use the dropdown to specify what type of cell (ex. code).
 
-More operations with cells can be found under "Edit". 
+More operations with cells can be found under "Edit".
 
-To run a cell, either click on "> Run" or select an option under "Cell". 
+To run a cell, either click on "> Run" or select an option under "Cell".
 
 See the Beginner Tutorial in Additional Resources for more features and how to use them.
 
@@ -67,7 +68,8 @@ See the Beginner Tutorial in Additional Resources for more features and how to u
 
 <img width="400" alt="Screenshot 2025-01-21 at 11 40 40 PM" src="https://github.com/user-attachments/assets/eb9c3c7f-5aa8-492b-99f9-d6ebe480b5ff" />
 
-Close all tabs in your browser that are running Jupyter Notebooks. Then, type (ctrl+c) and after 'y' in the terminal used to open Jupyter Notebook:
+Close all tabs in your browser that are running Jupyter Notebooks. Then, type (ctrl+c) and after 'y' in the Terminal used to open Jupyter Notebook:
+
 ```
 ^c
 y

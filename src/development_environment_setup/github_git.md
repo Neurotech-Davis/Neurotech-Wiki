@@ -1,11 +1,13 @@
 By Priyal Patel for \_Neurotech@Davis_s
 
-# Github
+# What is Github?
 
 account
 repository
 
-# Git
+# How to Use
+
+# What is Git?
 
 commands
 merge conflicts
