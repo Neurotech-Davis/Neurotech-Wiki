@@ -63,7 +63,7 @@ See the Beginner Tutorial in Additional Resources for more features and how to u
 
 **Closing Jupyter Notebook**
 
-<img width="300" alt="Screenshot 2025-01-21 at 11 40 40 PM" src="https://github.com/user-attachments/assets/eb9c3c7f-5aa8-492b-99f9-d6ebe480b5ff" />
+<img width="400" alt="Screenshot 2025-01-21 at 11 40 40 PM" src="https://github.com/user-attachments/assets/eb9c3c7f-5aa8-492b-99f9-d6ebe480b5ff" />
 
 Close all tabs in your browser that are running Jupyter Notebooks. Then, type (ctrl+c) in the terminal used to open Jupyter Notebook:
 ```
