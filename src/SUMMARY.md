@@ -5,7 +5,7 @@
   - [OpenBCI GUI](./development_environment_setup/openbci.md)
   - [The Terminal](./development_environment_setup/terminal.md)
   - [Jupyter Notebook](./development_environment_setup/jupyter_notebook.md)
-  - [VSCode (IDE)](./development_environment_setup/vscode.md)
+  - [VSCode](./development_environment_setup/vscode.md)
   - [Github and Git](./development_environment_setup/github_git.md)
 - [Python Basics](./python/basics.md)
 - [Important Python Libraries](./python/libraries.md)
