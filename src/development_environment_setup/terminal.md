@@ -1,10 +1,12 @@
 By Priyal Patel for _Neurotech@Davis_
 
 # What is the Terminal?
+<img width="282" alt="terminal" src="https://github.com/user-attachments/assets/c6b8b932-01b7-4194-ae33-b34f29b7bb38" />
 
 The terminal is an application that is primarily used to easily access and edit your files using special commands. However, the commands used will differ based on the type of computer you have such as a MAC or Windows laptop. Developers also use the terminal to install packages and run their code. The code's output or errors with how the code was written will be printed in the terminal.
 
 **Commands**
+<img width="392" alt="Screenshot 2025-01-21 at 4 32 51 PM" src="https://github.com/user-attachments/assets/2b99c410-9ef5-4ba5-832a-b912065dce8a" />
 
 Commands are what you type after the cursor mark. Commands are structured as <abbreviated action> <inputs>. When reading an instruction set, you can recognize terminal commands by '$', '>', or '%' appearing before the command. To run the command, you will need to copy everything that appears right after one of these symbols into the terminal and then hit enter. Commands are space and spelling sensitive, so you need to make sure you write each command exactly as it appears.
 
