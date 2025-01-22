@@ -6,9 +6,9 @@ Jupyter Notebook is a web application that allows you to easily write, run, and 
 
 # Installing Jupyter Notebook
 
-First, install [python](https://www.python.org/downloads/) by downloading newest release and check that you downloading version where the operating system matches the device you are using (ex. macOS for a MAC).
+First, install [python](https://www.python.org/downloads/) by downloading newest release and choose the version where the operating system matches the device you are using (ex. macOS for a MAC).
 
-After, install [pip](https://pip.pypa.io/en/stable/installation/) using either ensurepip or get-pip.py.
+After, install [pip](https://pip.pypa.io/en/stable/installation/) using either method mentioned (ensurepip or get-pip.py).
 
 Finally, open the Terminal (Mac/Linux) or Command Prompt (Windows) and run this command:
 
