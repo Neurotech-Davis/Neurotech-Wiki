@@ -115,10 +115,8 @@ Stop Execution: ^c
 After running a command, you can use this shortcut to prevent the command from finishing executing the command.
 
 ```
-
 $ <command>
 ^c
-
 ```
 
 For a full list of commands, see the 'Unix Tutorial' in Additional Resources.
