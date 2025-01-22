@@ -2,6 +2,7 @@
 
 - [Home](./home.md)
 - [Development Environment Setup](./development_environment_setup/intro.md)
+  - [OpenBCI GUI](./development_environment_setup/openbci.md)
   - [The Terminal](./development_environment_setup/terminal.md)
   - [Jupyter Notebook](./development_environment_setup/jupyter_notebook.md)
   - [VSCode (IDE)](./development_environment_setup/ide.md)
