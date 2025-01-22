@@ -6,8 +6,7 @@ The terminal is an application that is primarily used to easily access and edit 
 
 # Terminal Commands
 
-Commands are what you type after the cursor mark. Commands are structured as <abbreviated action> <inputs>. When reading an instruction set, you can recognize terminal commands by '$', '>', or '%' appearing before the command. To run the command, you will need to copy everything that appears right after one of these symbols into the terminal and then hit enter.
-(insert picture example)
+Commands are what you type after the cursor mark. Commands are structured as <abbreviated action> <inputs>. When reading an instruction set, you can recognize terminal commands by '$', '>', or '%' appearing before the command. To run the command, you will need to copy everything that appears right after one of these symbols into the terminal and then hit enter. Commands are space and spelling sensitive, so you need to make sure you write each command exactly as it appears.
 
 **Path**
 
