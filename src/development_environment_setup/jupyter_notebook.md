@@ -21,7 +21,7 @@ See Additional Resources for an alternative installation method using Anaconda N
 # How to Use
 
 **Opening Jupyter Notebook**
-<img width="1225" alt="Screenshot 2025-01-21 at 11 06 01 PM" src="https://github.com/user-attachments/assets/a756bfca-e835-4d29-a534-a1669638607b" />
+<img width="500" alt="Screenshot 2025-01-21 at 11 06 01 PM" src="https://github.com/user-attachments/assets/a756bfca-e835-4d29-a534-a1669638607b" />
 
 To open Jupyter Notebook, run this command:
 
@@ -32,7 +32,7 @@ Make sure the terminal window that you used to run this command stays open the w
 
 **Files and Folders Structure**
 
-<img width="1008" alt="Screenshot 2025-01-21 at 11 14 39 PM" src="https://github.com/user-attachments/assets/3cae42c4-b6e4-4aa0-a58c-8ef38e57a0f9" />
+<img width="500" alt="Screenshot 2025-01-21 at 11 14 39 PM" src="https://github.com/user-attachments/assets/3cae42c4-b6e4-4aa0-a58c-8ef38e57a0f9" />
 
 The Files section will look very similar to Finder (Mac) or File Explorer (Windows). If you select the box next to a folder/file, then click on an option this change will also automatically apply to your Finder/File Explorer. For example, if you delete a file, then you will need to go to your trash to recover it.
 
@@ -42,13 +42,13 @@ Navigate to the folder where you want the notebook to be stored. Click "New" and
 
 **Press Save**
 
-<img width="958" alt="Screenshot 2025-01-21 at 11 19 50 PM" src="https://github.com/user-attachments/assets/85478aa2-2726-4d10-8113-453cc2ea7710" />
+<img width="500" alt="Screenshot 2025-01-21 at 11 19 50 PM" src="https://github.com/user-attachments/assets/85478aa2-2726-4d10-8113-453cc2ea7710" />
 
 The most important thing to remember is to periodically press the "save" button especially before closing the notebook or your laptop. After pressing the button, make sure a checkpoint created message appears.
 
 **Cells**
 
-<img width="958" alt="Screenshot 2025-01-21 at 11 19 29 PM" src="https://github.com/user-attachments/assets/a9f1b60c-8e5c-4853-a7f6-3c5349b49416" />
+<img width="500" alt="Screenshot 2025-01-21 at 11 19 29 PM" src="https://github.com/user-attachments/assets/a9f1b60c-8e5c-4853-a7f6-3c5349b49416" />
 
 Each box is called a cell. Using cells allows you to split up your code into multiple cells and add markdown cells to provide written explanations. Cells can be run in any order; however, if certain code requires an imported package, then the cell importing the package needs to be run first.
 
@@ -62,7 +62,7 @@ See the Beginner Tutorial in Additional Resources for more features and how to u
 
 **Closing Jupyter Notebook**
 
-<img width="576" alt="Screenshot 2025-01-21 at 11 40 40 PM" src="https://github.com/user-attachments/assets/eb9c3c7f-5aa8-492b-99f9-d6ebe480b5ff" />
+<img width="500" alt="Screenshot 2025-01-21 at 11 40 40 PM" src="https://github.com/user-attachments/assets/eb9c3c7f-5aa8-492b-99f9-d6ebe480b5ff" />
 
 Close all tabs in your browser that are running Jupyter Notebooks. Then, type (ctrl+c) in the terminal used to open Jupyter Notebook:
 ```
