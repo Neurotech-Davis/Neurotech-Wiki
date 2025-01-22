@@ -2,15 +2,15 @@ By Priyal Patel for _Neurotech@Davis_
 
 # What is Jupyter Notebook?
 
-Jupyter Notebook is a web application that allows you to easily write, run, and visualized smaller chunks of code. It is commonly used for data preprocessing and analysis.
+Jupyter Notebook is a web application that allows you to easily write, run, and visualize smaller chunks of code. It is commonly used for data preprocessing and analysis.
 
 # Installing Jupyter Notebook
 
-First you need to install [python](https://www.python.org/downloads/) by downloading newest release and check that you downloading version where the operating system matches the device you are using (ex. macOS for a MAC).
+First, install [python](https://www.python.org/downloads/) by downloading newest release and check that you downloading version where the operating system matches the device you are using (ex. macOS for a MAC).
 
-After install [pip](https://pip.pypa.io/en/stable/installation/) using either ensurepip or get-pip.py.
+After, install [pip](https://pip.pypa.io/en/stable/installation/) using either ensurepip or get-pip.py.
 
-Finally open the Terminal (Mac/Linux) or Command Prompt (Windows) and run this command:
+Finally, open the Terminal (Mac/Linux) or Command Prompt (Windows) and run this command:
 
 ```
 $ pip install notebook
