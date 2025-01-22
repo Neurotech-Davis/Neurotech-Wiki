@@ -116,6 +116,8 @@ $ <command>
 
 ```
 
+For a full list of commands, see the 'Unix Tutorial' in Additional Resources.
+
 # Additional Resources
 
 - [WSL Installation Guide](https://learn.microsoft.com/en-us/windows/wsl/install)
