@@ -2,7 +2,7 @@ By Priyal Patel for _Neurotech@Davis_
 
 # What is the Terminal?
 
-<img width="200" alt="terminal" src="https://github.com/user-attachments/assets/c6b8b932-01b7-4194-ae33-b34f29b7bb38" />
+<img width="225" alt="terminal" src="https://github.com/user-attachments/assets/c6b8b932-01b7-4194-ae33-b34f29b7bb38" />
 
 The terminal is an application that is primarily used to easily access and edit your files using special commands. However, the commands used will differ based on the type of computer you have such as a MAC or Windows laptop. Developers also use the terminal to install packages and run their code. The code's output or errors with how the code was written will be printed in the terminal.
 
