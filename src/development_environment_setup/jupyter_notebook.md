@@ -39,6 +39,8 @@ The Files section will look very similar to Finder (Mac) or File Explorer (Windo
 
 **Creating a Notebook**
 
+<img width="600" alt="Screenshot 2025-01-21 at 11 16 33 PM" src="https://github.com/user-attachments/assets/ad3ce7aa-3f84-4c34-80a5-4a88ef19b86c" />
+
 Navigate to the folder where you want the notebook to be stored. Click "New" and select "Python 3". The new notebook will open in a new tab. If you navigate back to the folder, then a .ipynb file will have been added.
 
 **Press Save**
