@@ -84,7 +84,7 @@ $ git clone <https-repo-url>
 
 **Git Changes Workflow**
 
-After making changes to a file, the first step is to make sure you get any new changes another user has made on the same branch.
+After making changes to a file, the first step is to make sure you get any new changes another user has made on the same branch. If you do not do this, then you will overwrite the changes that other users have made. :(
 
 ```
 $ git pull
