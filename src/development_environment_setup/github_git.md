@@ -5,25 +5,31 @@ By Priyal Patel for \_Neurotech@Davis_s
 Github is a web application that stores multiple versions of a project. This allows multiple users to make changes to the project at the same time. The application also has features that allow users to easily integrate all of their changes into one project.
 
 **Repository**
+
 A repository stores all files and folders needed for a project. You can also see the project's revision history.
 
 **Branches**
+
 One way to maintain multiple versions of the project is by using separate branches. The branch that holds the desired version of the project is called Main; this will be automatically created when you create a repository.
 
 Users are able to make a new branch that contains a copy of the content in the Main or any other branch. This also called forking a respository.
 
 **Pull Request**
+
 Users can integrate their changes in their branch into another branch by opening a pull request.
 
 **Clone Repository**
+
 To make changes, a user will need to clone the desired repository. This will create a copy of the repository on your device. You will need to use git (mentioned below) to download changes from other users and upload your changes.
 
 **README**
+
 Users will add any important information about your project using markdown to the README.md file.
 
 # How to Use
 
 **Creating an Account**
+
 Follow Part 1 of this [guide](https://docs.github.com/en/get-started/onboarding/getting-started-with-your-github-account#part-1-configuring-your-github-account) to setup your github account.
 
 See the 'Github Hello World' guide in Additional Resources to practice using the features mentioned above.
@@ -33,15 +39,19 @@ See the 'Github Hello World' guide in Additional Resources to practice using the
 Git is the version control software that interacts with Github (repository storing service). Git is a tool that allows users to interact with different versions of the project. Using Git, users can save the changes on their device, upload their changes to the Github repository, switch to another version of the project, and perform many more tasks.
 
 **Remote Repository**
+
 The repository that appears on Github. This respository is stored on Github servers.
 
 **Local Repository**
+
 The repository that stored on your device. It consists of everything in the .git directory.
 
 **Staging Area**
+
 The staging area consists of the files you want git to track. You must explicitly add these files to the staging area each time you want git to know about new file edits.
 
 **Working Directory**
+
 This is the folder on your device that holds all files and folders in your local repository.
 
 All of your changes are only stored here until you add them to the staging area, commit them to the local repository, or push them to the remote repository.
@@ -57,9 +67,11 @@ Download the [git](https://git-scm.com/downloads) version that matches your devi
 This tutorial will be using VSCode and show you how using VSCode will make the process of using git easier. The tutorial will be only using the MAIN branch, so see 'Git Branches' in Additional Resources for using multiple branches.
 
 **Setting Credentials**
+
 Follow this [guide](https://docs.github.com/en/get-started/getting-started-with-git/set-up-git#setting-up-git) to set up git and link your account.
 
 **Create a Respository**
+
 On Github:
 
 1. Sign into your account
@@ -72,6 +84,7 @@ On Github:
 8. Click 'create repository'
 
 **Cloning a Repository**
+
 You can either clone an existing repository or create a new one and then clone this repo. For private repositories, you can only clone them if you are added as a contributer. See 'Adding Contributors' in Additional Resources.
 
 Go to your repository and click on the green 'Code' button. Copy the link under 'HTTPS'.
