@@ -20,7 +20,7 @@ Review the 'Getting Started Guide' in Additional Resources.
 
 **File Tree**
 
-<img width="253" alt="Screenshot 2025-01-22 at 5 16 02 PM" src="https://github.com/user-attachments/assets/ebd01237-7b7a-49ec-86e2-9daea040878d" />
+<img width="275" alt="Screenshot 2025-01-22 at 5 16 02 PM" src="https://github.com/user-attachments/assets/ebd01237-7b7a-49ec-86e2-9daea040878d" />
 
 Allows you to see, edit, and easily move all sub-folders and files in your project.
 
