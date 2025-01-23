@@ -20,7 +20,7 @@ Review the 'Getting Started Guide' in Additional Resources.
 
 **File Tree**
 
-<img width="275" alt="Screenshot 2025-01-22 at 5 16 02 PM" src="https://github.com/user-attachments/assets/ebd01237-7b7a-49ec-86e2-9daea040878d" />
+<img width="250" alt="Screenshot 2025-01-22 at 5 16 02 PM" src="https://github.com/user-attachments/assets/ebd01237-7b7a-49ec-86e2-9daea040878d" />
 
 Allows you to see, edit, and easily move all sub-folders and files in your project.
 
@@ -33,7 +33,7 @@ The terminal is easily accessible from within VSCode. This allows you to run you
 
 **Extensions**
 
-<img width="200" alt="Screenshot 2025-01-22 at 5 17 36 PM" src="https://github.com/user-attachments/assets/0603d823-6c23-421c-843b-20b6e70ca076" />
+<img width="250" alt="Screenshot 2025-01-22 at 5 17 36 PM" src="https://github.com/user-attachments/assets/0603d823-6c23-421c-843b-20b6e70ca076" />
 
 Also known as plugins, Extensions allows you to install packages. These could be necessary dependencies for your code or tools to help make the process of writing code easier. Feel free to explore the plugins available.
 
