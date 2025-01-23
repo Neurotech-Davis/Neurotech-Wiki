@@ -13,11 +13,13 @@ Once the package appears in your “Downloads” folder, double click to open an
 # How to Use
 
 **Opening the GUI**
+
 In Finder/File Explorer, look for "OpenBCI_GUI" in Applications and then double click on the app.
 
 If the error message below pop-ups, then right click on the app and click "open".
 
 **Starting a Secession**
+
 First, you need to have the USB dongle plugged into the device running the GUI and the cyton board turned on with batteries. See 'Data Collection Steps & Help' in Additional Resources for more information.
 
 Then, select these options:
@@ -38,19 +40,19 @@ There are many reasons for why a red error message will appear when trying to st
 
 Here are some ways to fix these errors:
 
-Try clicking either "START SECESSION" or "AUTO-CONNECT" at least 5 times. It usually takes a couple seconds before the connection is established.
+-Try clicking either "START SECESSION" or "AUTO-CONNECT" at least 5 times. It usually takes a couple seconds before the connection is established.
 
-Check that the batteries have been plugged into the cyton board and are facing the correct direction in the holder.
+-Check that the batteries have been plugged into the cyton board and are facing the correct direction in the holder.
 
-Check there is a light on the cyton board and the switch is set to "PC".
+-Check there is a light on the cyton board and the switch is set to "PC".
 
-Check that there is a red light flashing on USB dongle. If not, then switch the black reset switch to the right and then back to the left.
+-Check that there is a red light flashing on USB dongle. If not, then switch the black reset switch to the right and then back to the left.
 
-Relaunch the GUI and repeat the secession starting process.
+-Relaunch the GUI and repeat the secession starting process.
 
-Replace any dead batteries.
+-Replace any dead batteries.
 
-Use another device as the GUI runs better on some devices compared to others.
+-Use another device as the GUI runs better on some devices compared to others.
 
 **Starting/Stopping a Stream**
 Press "Start Data Stream" button to begin recording brain data. After, press "Stop Data Stream" button to stop recording data.
