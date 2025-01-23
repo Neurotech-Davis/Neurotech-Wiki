@@ -1,4 +1,4 @@
-By Priyal Patel for \_Neurotech@Davis_s
+By Priyal Patel for _Neurotech@Davis_
 
 # What is Github?
 
@@ -37,6 +37,9 @@ See the 'Github Hello World' guide in Additional Resources to practice using the
 # What is Git?
 
 Git is the version control software that interacts with Github (repository storing service). Git is a tool that allows users to interact with different versions of the project. Using Git, users can save the changes on their device, upload their changes to the Github repository, switch to another version of the project, and perform many more tasks.
+
+![Git-Architechture-Git-Tutorial-Edureka-2](https://github.com/user-attachments/assets/06a3534f-a136-47af-b511-89f3084f665d)
+
 
 **Remote Repository**
 
@@ -86,6 +89,8 @@ On Github:
 **Cloning a Repository**
 
 You can either clone an existing repository or create a new one and then clone this repo. For private repositories, you can only clone them if you are added as a contributer. See 'Adding Contributors' in Additional Resources.
+
+<img width="300" alt="Screenshot 2025-01-23 at 2 52 39 PM" src="https://github.com/user-attachments/assets/f6c7c94f-e4a7-43e4-8f40-98cad868d85e" />
 
 Go to your repository and click on the green 'Code' button. Copy the link under 'HTTPS'.
 
