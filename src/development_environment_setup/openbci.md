@@ -44,7 +44,7 @@ Check that the batteries have been plugged into the cyton board and are facing t
 
 Check there is a light on the cyton board and the switch is set to "PC".
 
-Check that there is a red light flashing on USB dongle. If not, then switch the reset blank switch to the right and then back to the left.
+Check that there is a red light flashing on USB dongle. If not, then switch the black reset switch to the right and then back to the left.
 
 Relaunch the GUI and repeat the secession starting process.
 
