@@ -38,7 +38,7 @@ See the 'Github Hello World' guide in Additional Resources to practice using the
 
 Git is the version control software that interacts with Github (repository storing service). Git is a tool that allows users to interact with different versions of the project. Using Git, users can save the changes on their device, upload their changes to the Github repository, switch to another version of the project, and perform many more tasks.
 
-![Git-Architechture-Git-Tutorial-Edureka-2](https://github.com/user-attachments/assets/06a3534f-a136-47af-b511-89f3084f665d)
+<img width="300" alt="Git-Workflow" src="https://github.com/user-attachments/assets/06a3534f-a136-47af-b511-89f3084f665d" />
 
 
 **Remote Repository**
