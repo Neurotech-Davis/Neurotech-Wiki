@@ -4,6 +4,9 @@ By Priyal Patel for _Neurotech@Davis_
 
 Github is a web application that stores multiple versions of a project. This allows multiple users to make changes to the project at the same time. The application also has features that allow users to easily integrate all of their changes into one project.
 
+<img width="375" alt="Screenshot 2025-01-23 at 4 14 18 PM" src="https://github.com/user-attachments/assets/4e208c80-dff3-4d5e-85be-098ff67c6778" />
+
+
 **Repository**
 
 A repository stores all files and folders needed for a project. You can also see the project's revision history.
