@@ -55,11 +55,13 @@ Here are some ways to fix these errors:
 -Use another device as the GUI runs better on some devices compared to others.
 
 **Starting/Stopping a Stream**
+
 Press "Start Data Stream" button to begin recording brain data. After, press "Stop Data Stream" button to stop recording data.
 
 See 'GUI Widgets' in Additional Resources to learn more about other GUI features.
 
 **Access Data**
+
 In Finder/File Explore, under Documents open the "OpenBCI_GUI" folder. In "Recordings", find the secession folder by the custom name you provided or by the date/time the secession was started. Inside the secession folder find all recordings based on date/time the recording was started.
 
 # Additional Resources
