@@ -24,7 +24,6 @@ Review the 'Getting Started Guide' in Additional Resources.
 
 Allows you to see, edit, and easily move all sub-folders and files in your project.
 
-
 **Terminal**
 
 <img width="400" alt="Screenshot 2025-01-22 at 5 17 19 PM" src="https://github.com/user-attachments/assets/2a2d860d-b663-4ba6-adc0-d67f25e811ff" />
@@ -57,7 +56,7 @@ _Prettier_
 
 <img width="375" alt="Screenshot 2025-01-22 at 5 18 35 PM" src="https://github.com/user-attachments/assets/89ba1822-c552-4d9f-82a4-8608c2368b4f" />
 
-When you click save, this plugin automatically formats your code to match standard coding formatting practices. This allows to consistent formatting and helps wiht make your code more readable.
+When you click save, this plugin automatically formats your code to match standard coding formatting practices. This allows for consistent formatting and helps with make your code more readable.
 
 # Additional Resources
 
