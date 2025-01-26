@@ -16,7 +16,7 @@ Finally, open the Terminal (Mac/Linux) or Command Prompt (Windows) and run this 
 $ pip install notebook
 ```
 
-See Additional Resources for an alternative installation method using Anaconda Navigator.
+See 'Anaconda Navigator' in Additional Resources for an alternative installation method.
 
 # How to Use
 
@@ -62,7 +62,7 @@ More operations with cells can be found under "Edit".
 
 To run a cell, either click on "> Run" or select an option under "Cell".
 
-See the Beginner Tutorial in Additional Resources for more features and how to use them.
+See the 'Beginner Tutorial' in Additional Resources for more features and how to use them.
 
 **Closing Jupyter Notebook**
 

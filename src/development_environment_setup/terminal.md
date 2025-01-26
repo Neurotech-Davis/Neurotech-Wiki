@@ -90,13 +90,22 @@ Create a folder with the specified name.
 $ mkdir <folder-name>
 ```
 
-Remove Directory: rm -d
+Remove Empty Directory: rm -r
+Delete a folder and all of its contents.
+
+```
+$ rm -r <folder-name>
+```
+
+Remove Non-Empty Directory: rm -d
+Delete an empty folder.
 
 ```
 $ rm -d <folder-name>
 ```
 
 Remove File: rm
+Delete a file.
 
 ```
 $ rm <file-name>
@@ -104,7 +113,7 @@ $ rm <file-name>
 
 Clear: clear
 
-Remove all commands from the Terminal's display. If you use the ^ arrow, then you can still see some of the past commands used.
+Remove all commands from the Terminal's display. If you use the up arrow key, then you can still see some of the past commands used.
 
 ```
 $ clear
@@ -112,7 +121,7 @@ $ clear
 
 Stop Execution: ^c (ctrl+c)
 
-After running a command, you can use this shortcut to prevent the command from finishing executing the command.
+After running a command, you can use this shortcut to prevent the command from finishing execution.
 
 ```
 $ <command>

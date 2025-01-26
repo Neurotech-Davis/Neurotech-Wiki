@@ -6,7 +6,6 @@ Github is a web application that stores multiple versions of a project. This all
 
 <img width="600" alt="Screenshot 2025-01-23 at 4 14 18 PM" src="https://github.com/user-attachments/assets/4e208c80-dff3-4d5e-85be-098ff67c6778" />
 
-
 **Repository**
 
 A repository stores all files and folders needed for a project. You can also see the project's revision history.
@@ -42,7 +41,6 @@ See the 'Github Hello World' guide in Additional Resources to practice using the
 Git is the version control software that interacts with Github (repository storing service). Git is a tool that allows users to interact with different versions of the project. Using Git, users can save the changes on their device, upload their changes to the Github repository, switch to another version of the project, and perform many more tasks.
 
 <img width="375" alt="Git-Workflow" src="https://github.com/user-attachments/assets/06a3534f-a136-47af-b511-89f3084f665d" />
-
 
 **Remote Repository**
 
@@ -119,7 +117,7 @@ Next, you will need to add the changes to the staging area. Make sure you are in
 $ git add .
 ```
 
-(Optional) To what files have been added to the staging area you can run this command:
+(Optional) To see what files have been added to the staging area, you can run this command:
 
 ```
 $ git status
