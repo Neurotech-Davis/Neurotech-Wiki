@@ -1,6 +1,6 @@
 # Maximizing Learning Potential: An EEG-based Haptic Feedback BCI Solution for Improving Student Focus 
 
-_Developed by Prakhar Sinha, Maitri Khanna, Jordan Ogbu Felix, Ayraman Bhatia, Grace Lim, Nhu Bui, Ramneek Chahil, Vraj Thakkar_
+_Developed by Ayraman Bhatia, Grace Lim, Nhu Bui, Ramneek Chahil, Vraj Thakkar_
 
 The haptic feedback BCI is arguably Neurotech@Davis’s most successful and robust BCI to date. This BCI is especially notable for winning 3rd place in the 2023 NeurotechX competition and winning against the likes of UCLA, UC Berkeley, and Rice University.
 
