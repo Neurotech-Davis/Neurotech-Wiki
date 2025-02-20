@@ -1,6 +1,6 @@
 # Expanding the P300 Oddball Paradigm for a Versatile BCI System with Macro Command Input
 
-_Developed by Prakhar Sinha, Maitri Khanna, Jordan Ogbu Felix, Devia Dham, Aurielle Jocom, Mathangi Venkatakrishnan, Raymond Kang_
+_Developed by Devia Dham, Aurielle Jocom, Mathangi Venkatakrishnan, Raymond Kang_
 
 The P300 Macro Speller was a really novel idea that was in development for the 2023 Neurotech California Conference. It utilized the P300 paradigm in order to simulate Vim commands.
 
