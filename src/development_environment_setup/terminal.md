@@ -1,6 +1,6 @@
-By Priyal Patel for _Neurotech@Davis_
-
 # What is the Terminal?
+
+By Priyal Patel for _Neurotech@Davis_
 
 <img width="225" alt="terminal" src="https://github.com/user-attachments/assets/c6b8b932-01b7-4194-ae33-b34f29b7bb38" />
 
