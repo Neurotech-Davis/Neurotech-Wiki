@@ -1,3 +1,5 @@
+# Inportant Python Libraries for Data Analysis
+
 By Manik Sethi for *Neurotech@Davis*
 
 Now that we've covered the basics of Python, we will dive into libraries which give us additional functionality. In this tutorial, we will cover [NumPy](https://numpy.org/doc/) and [Pandas](https://pandas.pydata.org/) . To follow this tutorial, make sure you have Python installed on your computer and a text-editor ready to work with.
