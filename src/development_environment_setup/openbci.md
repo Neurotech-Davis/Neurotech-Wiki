@@ -1,6 +1,6 @@
-By Priyal Patel for _Neurotech@Davis_
-
 # What is OpenBCI?
+
+By Priyal Patel for _Neurotech@Davis_
 
 OpenBCI is a neurotech company whose hardware we use to collect brain data. Using their GUI, we are able to visualize the data in real-time and access these recordings in "./Documents/OpenBCI_GUI".
 
