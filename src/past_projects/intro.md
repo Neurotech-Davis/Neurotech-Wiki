@@ -1,1 +1,3 @@
-Neuotech@Davis has made a lot of neruotech projects over the past year. This article will go over the work we have done in the past as well as briefly touch on what exactly those projects did. 
+# Past Projects
+
+Neurotech@Davis, is a dynamic and innovative neurotechnology club dedicated to advancing the field of brain-computer interfaces (BCIs) and fostering the next generation of neurotech enthusiasts. At Neurotech@Davis, we are passionate about exploring the intersection of neuroscience and technology to create cutting-edge solutions that push the boundaries of what is possible. We design and develop state-of-the-art brain-computer interfaces that bridge the gap between the human brain and digital systems. Our projects range from wearable devices to sophisticated software that enhances communication, accessibility, and cognitive enhancement.
