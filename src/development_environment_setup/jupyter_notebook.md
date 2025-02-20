@@ -1,6 +1,6 @@
-By Priyal Patel for _Neurotech@Davis_
-
 # What is Jupyter Notebook?
+
+By Priyal Patel for _Neurotech@Davis_
 
 Jupyter Notebook is a web application that allows you to easily write, run, and visualize smaller chunks of code. It is commonly used for data preprocessing and analysis.
 
