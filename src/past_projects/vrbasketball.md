@@ -1,6 +1,7 @@
 # Controllerless Basketball Game using EEG-Based BCI: A Novel Approach for Virtual Reality Gaming 
 
-_Developed by Prakhar Sinha, Maitri Khanna, Jordan Ogbu Felix, Adit Jain, Priyal Patel, Rytham D, Sasinathaya Aphichatphokhin, Tarun Devesetti_
+_Developed by Adit Jain, Priyal Patel, Rytham D, Sasinathaya Aphichatphokhin, Tarun Devesetti_
+_Mentored by Prakhar Sinha, Maitri Khanna, Jordan Ogbu Felix_
 
 The haptic feedback was a big step for Neurotech@Davis as it was the first fully functional BCI using the OpenBCI Cyton board that we developed. This BCI is especially notable for winning 3rd place (out of 3 entrees) in the 2023 Neurotech California Conference.
 
