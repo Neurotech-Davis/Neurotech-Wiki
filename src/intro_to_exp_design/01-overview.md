@@ -1,5 +1,6 @@
 # Overview of EEG Experimental Design
-Made by Sofia Fischel and Grace Lim for Neurotech@Davis
+
+By Sofia Fischel and Grace Lim for Neurotech@Davis
 
 ### General Structure of EEG Experiments
 
