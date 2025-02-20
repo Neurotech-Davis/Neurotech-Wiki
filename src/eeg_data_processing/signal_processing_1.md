@@ -1,4 +1,6 @@
-## What to do after collecting data?
+# What to do after collecting data?
+
+By Avni Bafna for Neurotech@Davis
 
 After collecting EEG (electroencephalography) data in a neurotech project, there are several important steps you can take to process, analyze, and interpret the data effectively. These steps are:
 
