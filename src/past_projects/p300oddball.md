@@ -2,6 +2,8 @@
 
 _Developed by Devia Dham, Aurielle Jocom, Mathangi Venkatakrishnan, Raymond Kang_
 
+_Mentored by Prakhar Sinha, Maitri Khanna, Jordan Ogbu Felix_
+
 The P300 Macro Speller was a really novel idea that was in development for the 2023 Neurotech California Conference. It utilized the P300 paradigm in order to simulate Vim commands.
 
 ## What it did
