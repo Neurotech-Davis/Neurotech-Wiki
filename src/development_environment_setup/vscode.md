@@ -1,6 +1,6 @@
-By Priyal Patel for _Neurotech@Davis_
-
 # What is VSCode?
+
+By Priyal Patel for _Neurotech@Davis_
 
 VSCode is an IDE, integrated development environment. What this means is it combines various applications that run separately into one application.
 
