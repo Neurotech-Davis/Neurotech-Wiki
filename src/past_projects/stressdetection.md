@@ -2,6 +2,8 @@
 
 _Developed by Anisha Patel, Avni Bafna, Brian Nguyen, Dat Mai, Heidi Sailor, Nabeha Barkatullah_
 
+_Mentored by Prakhar Sinha, Maitri Khanna, Jordan Ogbu Felix_
+
 The development of this BCI was slow and steady but it ultimately yielded an innovative and robust result. It was developed for the 2023 Neurotech California Conference. 
 
 ## What it does
