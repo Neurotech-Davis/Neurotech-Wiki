@@ -1,5 +1,7 @@
 # Home
 
+_Created with love by Neurotech@Davis Board Members_
+
 Welcome to the Neurotech@Davis Wiki, your comprehensive resource for all things related to neurotechnology. Here you will find learning resources, documentation and guides. 
 
 ### What is Neurotech?
