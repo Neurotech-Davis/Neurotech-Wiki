@@ -1,4 +1,7 @@
-## What is epoching?
+# What is epoching?
+
+By Avni Bafna for Neurotech@Davis
+
 Epoching involves dividing continuous EEG data into smaller segments known as "epochs." Each epoch corresponds to a specific time interval of interest within the EEG recording. Epoching is a fundamental step that enables researchers to analyze brain activity in response to events, stimuli, or conditions.
 ## Approaches to Epoching
 - Time-Based Epoching:
