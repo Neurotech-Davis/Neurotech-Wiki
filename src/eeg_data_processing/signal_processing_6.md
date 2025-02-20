@@ -1,4 +1,6 @@
-## What is a Classifier?
+# What is a Classifier?
+
+By Avni Bafna for Neurotech@Davis
 
 A classifier is a fundamental component in machine learning that's used to assign labels or categories to input data based on patterns and features present in the data. It's a model that learns from labeled examples in a training dataset and then predicts the labels of new, unseen data. The goal of a classifier is to generalize from the training data to accurately classify unknown instances.
 
