@@ -1,4 +1,7 @@
-## Setting-Up the Environment
+# Setting-Up the Environment
+
+By Avni Bafna for Neurotech@Davis
+
 Before starting preprocessing import and install the dependencies.
 ```
 import pandas as pd
