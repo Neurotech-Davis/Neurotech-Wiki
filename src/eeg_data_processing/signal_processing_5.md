@@ -1,4 +1,6 @@
-## What is feature extraction?
+# What is feature extraction?
+
+By Avni Bafna for Neurotech@Davis
 
 Feature extraction is a process in which meaningful and informative attributes or features are derived from raw data. In the context of EEG (electroencephalography) data analysis, feature extraction involves transforming the complex EEG signal into a set of representative features that capture essential characteristics of brain activity. These extracted features serve as inputs for further analysis, classification, and interpretation.
 
