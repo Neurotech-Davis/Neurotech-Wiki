@@ -1,3 +1,5 @@
+# Python Basics
+
 By Dhruv Sangamwar for _Neurotech@Davis_
 
 Python is a versatile and popular programming language known for its simplicity and readability. In this tutorial, we will cover the basics of Python, including variables, data types, control structures, functions, and more.
