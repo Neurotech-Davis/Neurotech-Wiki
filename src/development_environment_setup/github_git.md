@@ -1,6 +1,6 @@
-By Priyal Patel for _Neurotech@Davis_
-
 # What is Github?
+
+By Priyal Patel for _Neurotech@Davis_
 
 Github is a web application that stores multiple versions of a project. This allows multiple users to make changes to the project at the same time. The application also has features that allow users to easily integrate all of their changes into one project.
 
