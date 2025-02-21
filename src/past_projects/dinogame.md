@@ -1,7 +1,8 @@
 # Dino Game 
 _Developed by Prakhar Sinha, Maitri Khanna, Raymond Doan, Avni Bafna, Brian Nguyen, Nhu Bui, Ankita Chatterjee_
 
-The Dino Game was one of the first fully functional BCI projects that we developed. It was quite rudimentary but it was a major stepping stone for our club to build more interesting and complex BCI’s. 
+The Dino Game was one of the first fully functional BCI projects that was developed for UC Davis Neurofest 2023. It was quite rudimentary but it was a major stepping stone for our club to build more interesting and complex BCI’s. 
+
 ## What it did
 The Dino Game BCI was spawned out of the need to have a project to show off at the 2023 Davis Neurofest event. This was an event dedicated to showcasing UC Davis’s advancements in neurotechnology and Neuroscience. We needed to completely develop this project in less than 3 months. 
 
