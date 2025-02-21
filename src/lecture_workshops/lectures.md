@@ -1,3 +1,4 @@
+# Lectures and Workshops
 > Some lectures may not have recording, those that don't will not have a link. 
 
 ### Lectures
