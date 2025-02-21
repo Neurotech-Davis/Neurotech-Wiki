@@ -47,13 +47,13 @@
   - [Feature Extraction](./machine_learning/ml_featureextraction.md)
   - [Machine Learning Models Used in Neurotechnology](./machine_learning/ml_types.md)
 - [Past Projects](./past_projects/intro.md)
-  - 2022-2023 Cohort Projects
+  - 2022-2023 Cohort Projects(./past_projects/2022-2023.md)
     - [Dino Game](./past_projects/dinogame.md)
     - [P300 BCI System with Macro Command Input](./past_projects/p300oddball.md)
     - [Haptic Feedback BCI for Focus](./past_projects/hapticfeedback.md)
     - [Controllerless Basketball Game](./past_projects/vrbasketball.md)
     - [Stress Detection_with Targeted Music Therapy](./past_projects/stressdetection.md)
-  - 2023-2024 Cohort Projects
-  - 2024-2025 Cohort Projects
+  - 2023-2024 Cohort Projects(./past_projects/2023-2024.md)
+  - 2024-2025 Cohort Projects(./past_projects/2024-2025.md)
 - [Lectures and Workshops](./lecture_workshops/lectures.md)
 - [Learning Resources](./learning_resources/resources.md)
