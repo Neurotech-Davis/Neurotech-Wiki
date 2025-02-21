@@ -47,10 +47,13 @@
   - [Feature Extraction](./machine_learning/ml_featureextraction.md)
   - [Machine Learning Models Used in Neurotechnology](./machine_learning/ml_types.md)
 - [Past Projects](./past_projects/intro.md)
-  - [Dino Game](./past_projects/dinogame.md)
-  - [Expanding the P300 Oddball Paradigm for a Versatile BCI System with Macro Command Input](./past_projects/p300oddball.md)
-  - [Maximizing Learning Potential: An EEG-based Haptic Feedback BCI Solution for Improving Student Focus](./past_projects/hapticfeedback.md)
-  - [Controllerless Basketball Game using EEG-Based BCI: A Novel Approach for Virtual Reality Gaming](./past_projects/vrbasketball.md)
-  - [Approach to Stress Detection and Alleviation using EEG-Based BCI with Targeted Music Therapy](./past_projects/stressdetection.md)
+  - 2022-2023 Cohort Projects
+    - [Dino Game](./past_projects/dinogame.md)
+    - [P300 BCI System with Macro Command Input](./past_projects/p300oddball.md)
+    - [Haptic Feedback BCI for Focus](./past_projects/hapticfeedback.md)
+    - [Controllerless Basketball Game](./past_projects/vrbasketball.md)
+    - [Stress Detection_with Targeted Music Therapy](./past_projects/stressdetection.md)
+  - 2023-2024 Cohort Projects
+  - 2024-2025 Cohort Projects
 - [Lectures and Workshops](./lecture_workshops/lectures.md)
 - [Learning Resources](./learning_resources/resources.md)
