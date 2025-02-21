@@ -1,6 +1,5 @@
 # Dino Game 
-
-Bringing Brain-Computer Interfaces to Everyone—A Fun and Accessible First Step into Neurotechnology.
+> Bringing Brain-Computer Interfaces to Everyone—A Fun and Accessible First Step into Neurotechnology.
 
 _Developed by Prakhar Sinha, Maitri Khanna, Raymond Doan, Avni Bafna, Brian Nguyen, Nhu Bui, Ankita Chatterjee_
 
