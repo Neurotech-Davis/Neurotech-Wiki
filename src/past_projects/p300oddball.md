@@ -1,10 +1,11 @@
 # Expanding the P300 Oddball Paradigm for a Versatile BCI System with Macro Command Input
+> Thought-Powered Coding—Exploring BCI for Seamless Vim Navigation.
 
 _Developed by Devia Dham, Aurielle Jocom, Mathangi Venkatakrishnan, Raymond Kang_
 
 _Mentored by Prakhar Sinha, Maitri Khanna, Jordan Ogbu Felix_
 
-The P300 Macro Speller was a really novel idea that was in development for the 2023 Neurotech California Conference. It utilized the P300 paradigm in order to simulate Vim commands.
+The P300 Macro Speller, developed for the 2023 Neurotech California Conference, aimed to revolutionize Vim navigation by detecting P300 brainwave responses, allowing users to switch modes and execute commands using thought alone—an ambitious project utilizing OpenBCI Cyton and Openvibe, with future potential for refinement.
 
 ## What it did
 
