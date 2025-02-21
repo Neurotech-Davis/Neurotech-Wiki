@@ -1,10 +1,11 @@
 # Approach to Stress Detection and Alleviation using EEG-Based BCI with Targeted Music Therapy
+> Brain-Powered Stress Relief—Harnessing EEG for Real-Time Calm.
 
 _Developed by Anisha Patel, Avni Bafna, Brian Nguyen, Dat Mai, Heidi Sailor, Nabeha Barkatullah_
 
 _Mentored by Prakhar Sinha, Maitri Khanna, Jordan Ogbu Felix_
 
-The development of this BCI was slow and steady but it ultimately yielded an innovative and robust result. It was developed for the 2023 Neurotech California Conference. 
+This BCI project leveraged EEG technology to detect stress by analyzing alpha and beta brainwave activity, providing real-time calming responses through tailored 18.5 Hz music therapy—offering an innovative solution to stress management in everyday life.
 
 ## What it does
 
