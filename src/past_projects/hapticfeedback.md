@@ -4,7 +4,7 @@ _Developed by Ayraman Bhatia, Grace Lim, Nhu Bui, Ramneek Chahil, Vraj Thakkar_
 
 _Mentored by Prakhar Sinha, Maitri Khanna, Jordan Ogbu Felix_
 
-The haptic feedback BCI is arguably Neurotech@Davis’s most successful and robust BCI to date. This BCI is especially notable for winning 3rd place in the 2023 NeurotechX competition and winning against the likes of UCLA, UC Berkeley, and Rice University.
+This BCI was entered into the 2023 NeurotechX competition where it won 3rd place.
 
 ## What it does
 
