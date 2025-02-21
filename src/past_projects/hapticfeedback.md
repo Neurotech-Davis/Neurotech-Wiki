@@ -1,10 +1,11 @@
 # Maximizing Learning Potential: An EEG-based Haptic Feedback BCI Solution for Improving Student Focus 
+> Enhancing Focus with Brain-Computer Interfaces—Real-Time EEG-Based Study Assistance
 
 _Developed by Ayraman Bhatia, Grace Lim, Nhu Bui, Ramneek Chahil, Vraj Thakkar_
 
 _Mentored by Prakhar Sinha, Maitri Khanna, Jordan Ogbu Felix_
 
-This BCI was entered into the 2023 NeurotechX competition where it won 3rd place.
+This BCI was entered into the 2023 NeurotechX competition where it won 3rd place. This BCI project utilizes EEG technology with OpenBCI Cyton, Brainflow, and Arduino to detect loss of focus in students by monitoring brainwave patterns and providing real-time haptic feedback to help maintain concentration.
 
 ## What it does
 
