@@ -1,4 +1,4 @@
-# The NeuroBird: Using Steady-State Visually Evoked Potentials to Guide a Drone  
+# NeuroBird: Using Steady-State Visually Evoked Potentials to Guide a Drone  
 > Brainwaves Take Flight—Controlling Drones with the Power of Sight.
 
 _Developed by Alex Czerminski, Angelina Gyves, Sofia Fischel, Anthony Noshy, Priyanshi Singh, Shreya Vallala_
