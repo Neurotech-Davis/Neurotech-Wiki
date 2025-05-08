@@ -54,6 +54,7 @@
     - [Controllerless Basketball Game](./past_projects/vrbasketball.md)
     - [Stress Detection_with Targeted Music Therapy](./past_projects/stressdetection.md)
   - [2023-2024 Cohort Projects](./past_projects/2023-2024.md)
+    - [NeuroBird: Using Steady-State Visually Evoked Potentials to Guide a Drone](./past_projects/neurobird.md)
   - [2024-2025 Cohort Projects](./past_projects/2024-2025.md)
 - [Lectures and Workshops](./lecture_workshops/lectures.md)
 - [Learning Resources](./learning_resources/resources.md)
