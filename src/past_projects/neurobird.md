@@ -33,7 +33,7 @@ SSVEPs are a subset of event-related potentials (ERPs), where repeated visual st
 
 ## Results & Conclusion
 
-Despite preprocessing, the initial trials did not consistently yield clear SSVEP peaks, as illustrated in Fig. 5. One instance of Trial B showed a potential spike at 5 Hz (Fig. 6), but reproducibility remained a challenge.
+Despite preprocessing, the initial trials did not consistently yield clear SSVEP peaks. One instance of Trial B showed a potential spike at 5 Hz, but reproducibility remained a challenge.
 
 We suspected inaccuracies in frequency mapping due to temporal drift in our CytonBoard, prompting a refinement of our data collection protocol. The updated trials involved direct exposure to each frequency (5 Hz and 7.5 Hz) for 30 seconds without interference.
 
