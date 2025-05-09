@@ -33,7 +33,7 @@ In our Connect-4 BCI design, participants focus on which column they would like 
  
 ## Results
 
-Once we finished preprocessing the data and cleaning it up to prepare for feature extraction and classifier training, we generated graphs of the preprocessed data in time-domain and frequency-domain (Figures 4, 5). A spike can be observed in Figure 4 at around 32 Hz, which indicates the P300’s frequency.  A positive inflection can be observed at around 66.3s (one of the times the target stimulus was shown), thus indicating the presence of the P300. This data will be used later in classification and training the classifier.
+Once we finished preprocessing the data and cleaning it up to prepare for feature extraction and classifier training, we generated graphs of the preprocessed data in time-domain and frequency-domain (Figures 4, 5). A spike can be observed at around 32 Hz, which indicates the P300’s frequency.  A positive inflection can be observed at around 66.3s (one of the times the target stimulus was shown), thus indicating the presence of the P300. This data will be used later in classification and training the classifier.
 
 
 ## Conclusion
