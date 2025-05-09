@@ -6,7 +6,7 @@ _Mentored by Avni Bafna, Adit Jain, Prakhar Sinha_
 
 ## Abstract
 
-The OpenBCI Cyton board was used to extract EEG signals for data collection. The Cyton’s electrode placements are shown in Figures 1 and 3. These placements were chosen based on past P300 research conducted by Emmanuel Maby et al[1]. In each data collection trial, the test subject observed a colored LED that was set to white by default (as seen in Figure 2). Over a period up to 202.41 seconds, the LED's color would be changed at random times and then instantly reverted to the default color. This color change served as the target stimulus meant to trigger the P300. Each time a color change happened, a timestamp was marked. We conducted 5 data collection trials with 87 instances of P300 in total with two subjects.
+The OpenBCI Cyton board was used to extract EEG signals for data collection. In each data collection trial, the test subject observed a colored LED that was set to white by default. Over a period up to 202.41 seconds, the LED's color would be changed at random times and then instantly reverted to the default color. This color change served as the target stimulus meant to trigger the P300. Each time a color change happened, a timestamp was marked. We conducted 5 data collection trials with 87 instances of P300 in total with two subjects.
 
 Our data was then preprocessed and visualized using MNE-Python. During preprocessing, several filters were applied to the data: a bandpass filter with a band of 0.5-35 Hz and a 60 Hz notch filter. The bandpass filter served to increase the P300’s visibility in frequency-domain graphs. The notch filter served to filter out power line noise. Independent component analysis was then utilized to remove possible artifacts in the EEG data.
 
