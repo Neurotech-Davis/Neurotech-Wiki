@@ -1,4 +1,5 @@
 # P300 ERP Signal Excitation and Analysis
+> Using EEG and stimulus-driven experimentation to detect P300 brainwaves and explore their application in brain-computer interfaces.
 
 _Authors: Emma Chan, Alan Lin, Siri Manthapuri, Taner Karaaslan_
 
