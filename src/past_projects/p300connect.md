@@ -1,6 +1,7 @@
 # P300 ERP Signal Excitation and Analysis
 
 _Authors: Emma Chan, Alan Lin, Siri Manthapuri, Taner Karaaslan_
+
 _Mentored by Avni Bafna, Adit Jain, Prakhar Sinha_
 
 ---
