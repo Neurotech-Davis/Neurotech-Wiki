@@ -2,9 +2,9 @@
 > Thought into Motion—Harnessing EEG to Control Robotic Limbs.
 
 _Data Collection: Abrianna Johnson, Avni Bafna, Grace Lim_  
+
 _Software and Hardware: Adit Jain, Ahmed Seyam, Evan Silvey, Prakhar Sinha, Priyal Patel_  
 
-_Neurotech@Davis, University of California, Davis, CA_
 
 This BCI project uses EEG signals to decode mental commands—such as “grab,” “drop,” “left,” and “right”—and converts them into real-time physical movements of a robotic arm. Leveraging mental imagery primed by video stimuli and personalized training sessions, the system enables direct control of robotic hardware through thought alone.
 
